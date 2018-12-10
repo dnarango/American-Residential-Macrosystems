@@ -1,0 +1,19 @@
+---
+title: "New Website"
+author: "Desiree Narango"
+date: 2018-11-08T21:13:14-05:00
+categories: ["R"]
+tags: ["website"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Welcome
+
+This is the beginning of a beautiful website
+
+```{r website}
+print("hello world")
+```

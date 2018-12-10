@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>American Residential Macrosystems on American Residential Macrosystems</title>
+    <link>/</link>
+    <description>Recent content in American Residential Macrosystems on American Residential Macrosystems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ecological Homogenization of Urban America</title>
+      <link>/project/external-project/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Future of Residential Yards in Urban America</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Awesome project details&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>/data/</link>
+      <pubDate>Fri, 16 Nov 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/data/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;List of data associated with the project&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;homogenization&#34;&gt;&lt;strong&gt;Homogenization&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&#34;biophysical-data&#34;&gt;&lt;strong&gt;Biophysical Data&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110&#34; target=&#34;_blank&#34;&gt;Soil chemistry&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://sustainability.asu.edu/caplter/data/view/msb-cap.625.1/&#34; target=&#34;_blank&#34;&gt;Microclimate&lt;/a&gt;&lt;br /&gt;
+Soil Microclimate&lt;br /&gt;
+&lt;a href=&#34;https://portal.edirepository.org/nis/mapbrowse?scope=edi&amp;amp;identifier=259&amp;amp;revision=1&#34; target=&#34;_blank&#34;&gt;Plant and soil carbon and nitrogen&lt;/a&gt;&lt;br /&gt;
+hydrography&lt;br /&gt;
+Pond sediment&lt;/p&gt;
+
+&lt;h2 id=&#34;biodiversity&#34;&gt;&lt;strong&gt;Biodiversity&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110&#34; target=&#34;_blank&#34;&gt;Lawn plants - abundance&lt;/a&gt;&lt;br /&gt;
+Leaf Morphology&lt;br /&gt;
+Plant species - presence/absence&lt;br /&gt;
+Plant taxonomy list&lt;br /&gt;
+Plant transects (reference sites only)&lt;/p&gt;
+
+&lt;h2 id=&#34;social-data&#34;&gt;&lt;strong&gt;Social Data&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4000.180&#34; target=&#34;_blank&#34;&gt;Phone Surveys&lt;/a&gt;&lt;br /&gt;
+Interviews - Quantitative&lt;br /&gt;
+Interview - Qualitative&lt;/p&gt;
+
+&lt;h2 id=&#34;general-information&#34;&gt;&lt;strong&gt;General Information&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110&#34; target=&#34;_blank&#34;&gt;Parcel Sizes&lt;/a&gt;&lt;br /&gt;
+Land cover data summaries&lt;br /&gt;
+Land Cover spatial layers&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;yard-futures&#34;&gt;&lt;strong&gt;Yard Futures&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&#34;biophysical-data-1&#34;&gt;&lt;strong&gt;Biophysical Data&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;PRS probes&lt;br /&gt;
+Temperature&lt;br /&gt;
+Precipitation&lt;br /&gt;
+Plant and soil carbon and nitrogen&lt;br /&gt;
+Soil chemistry&lt;/p&gt;
+
+&lt;h2 id=&#34;biodiversity-1&#34;&gt;&lt;strong&gt;Biodiversity&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Bird surveys&lt;br /&gt;
+Bee sampling&lt;br /&gt;
+Ground arthropod sampling
+Plant species (presence/absence)
+Lawn plant abundance
+Tree data&lt;/p&gt;
+
+&lt;h2 id=&#34;social-data-1&#34;&gt;&lt;strong&gt;Social Data&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Phone survey data&lt;/p&gt;
+
+&lt;h2 id=&#34;general-information-1&#34;&gt;&lt;strong&gt;General Information&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Site information and parcel size&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Website</title>
+      <link>/post/new-website/2018-11-08-new-website/</link>
+      <pubDate>Thu, 08 Nov 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/new-website/2018-11-08-new-website/</guid>
+      <description>
+
+
+&lt;div id=&#34;welcome&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Welcome&lt;/h1&gt;
+&lt;p&gt;This is the beginning of a beautiful website&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;print(&amp;quot;hello world&amp;quot;)
+## [1] &amp;quot;hello world&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page</title>
+      <link>/tutorial/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tutorial/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continental-scale homogenization of residential lawn plant communities</title>
+      <link>/publication/wheeler-lawn-lup/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/wheeler-lawn-lup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>/examples/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      
+      <guid>/examples/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/publication_list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publication_list/</guid>
+      <description>
+
+&lt;h1 id=&#34;publication-list&#34;&gt;&lt;strong&gt;Publication List&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&#34;2018&#34;&gt;&lt;strong&gt;2018&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Locke, D.H., Avolio, M., Trammel, T., Chowdhury, R.R., Grove, J.M., Rogan, J., Martin, D.G., Bettez, N., Cavender-Bares, J., Groffman, P.M. and Hall, S.J., 2018. A multi-city comparison of front and backyard differences in plant species diversity and nitrogen cycling in residential landscapes. Landscape and Urban Planning, 178, pp.102-111. &lt;a href=&#34;/publication/wheeler-lawn-lup/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2017&#34;&gt;&lt;strong&gt;2017&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Groffman, P.M., Avolio, M., Cavender-Bares, J., Bettez, N.D., Grove, J.M., Hall, S.J., Hobbie, S.E., Larson, K.L., Lerman, S.B., Locke, D.H. and Heffernan, J.B., 2017. Ecological homogenization of residential macrosystems. Nature ecology &amp;amp; evolution, 1(7), p.0191.&lt;/p&gt;
+
+&lt;p&gt;Wheeler, M.M., Neill, C., Groffman, P.M., Avolio, M., Bettez, N., Cavender-Bares, J., Chowdhury, R.R., Darling, L., Grove, J.M., Hall, S.J. and Heffernan, J.B., 2017. Continental-scale homogenization of residential lawn plant communities. Landscape and Urban Planning, 165, pp.54-63.  &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0169204618304353&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2016&#34;&gt;&lt;strong&gt;2016&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h2 id=&#34;2015&#34;&gt;&lt;strong&gt;2015&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Hall, S.J., Learned, J., Ruddell, B., Larson, K.L., Cavender-Bares, J., Bettez, N., Groffman, P.M., Grove, J.M., Heffernan, J.B., Hobbie, S.E. and Morse, J.L., 2016. Convergence of microclimate in residential landscapes across diverse cities in the United States. Landscape ecology, 31(1), pp.101-117.&lt;a href=&#34;https://link.springer.com/article/10.1007%2Fs10980-015-0297-y&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2014&#34;&gt;&lt;strong&gt;2014&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Groffman, P.M., Cavender-Bares, J., Bettez, N.D., Grove, J.M., Hall, S.J., Heffernan, J.B., Hobbie, S.E., Larson, K.L., Morse, J.L., Neill, C. and Nelson, K., 2014. Ecological homogenization of urban USA. Frontiers in Ecology and the Environment, 12(1), pp.74-81.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>/people_list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people_list/</guid>
+      <description>
+
+&lt;p&gt;Contact information for collaborators involved in the American Residential Macrosystems Project&lt;/p&gt;
+
+&lt;h2 id=&#34;city-university-of-new-york&#34;&gt;City University of New York&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.asrc.cuny.edu/about/people-profiles/peter-groffman/&#34; target=&#34;_blank&#34;&gt;Peter Groffman, PhD&lt;/a&gt;; PI&lt;br /&gt;
+&lt;a href=&#34;https://desireelnarango.weebly.com/&#34; target=&#34;_blank&#34;&gt;Desiree Narango, PhD&lt;/a&gt;; Postdoctoral Researcher&lt;/p&gt;
+
+&lt;h2 id=&#34;united-states-forest-service&#34;&gt;United States Forest Service&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.nrs.fs.fed.us/people/sblerman&#34; target=&#34;_blank&#34;&gt;Susannah Lerman, PhD&lt;/a&gt;; Co-PI&lt;br /&gt;
+&lt;a href=&#34;https://www.nrs.fs.fed.us/people/mgrove&#34; target=&#34;_blank&#34;&gt;Morgan Grove, PhD&lt;/a&gt;; Co-PI&lt;br /&gt;
+Dexter Locke&lt;/p&gt;
+
+&lt;h2 id=&#34;university-of-minnesota&#34;&gt;University of Minnesota&lt;/h2&gt;
+
+&lt;h2 id=&#34;arizona-state-university&#34;&gt;Arizona State University&lt;/h2&gt;
+
+&lt;h2 id=&#34;duke-university&#34;&gt;Duke University&lt;/h2&gt;
+
+&lt;h2 id=&#34;clark-university&#34;&gt;Clark University&lt;/h2&gt;
+
+&lt;h2 id=&#34;se-sync&#34;&gt;SE-SYNC&lt;/h2&gt;
+
+&lt;h2 id=&#34;university-of-delaware&#34;&gt;University of Delaware&lt;/h2&gt;
+
+&lt;h2 id=&#34;johns-hopkins-university&#34;&gt;Johns Hopkins University&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example-slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/example-slides/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
