@@ -1,0 +1,18 @@
+// JavaScript Document
+function toggleShrink(from,targetID) {
+	target=document.getElementById(targetID);
+	with (target) {
+		if (className.match(/\bexpanded\b/)) {
+			className=className.replace(/\bexpanded\b/,'shrunk');
+		} else if (className.match(/\bshrunk\b/)) {
+			className=className.replace(/\bshrunk\b/,'expanded');
+		}
+	}
+	from.blur();
+}
+
+spanList=document.getElementsByTagName('span');
+for (t=0; t<spanList.length; t++) with (spanList[t]) if (id.indexOf('_sControl')!=-1) {
+	
+	innerHTML='<a href="#" onclick="toggleShrink(this,\''+id.replace(/_sControl/,'')+'\'); return false" class="sControl"><b></b>'+innerHTML+'</a>';
+}
