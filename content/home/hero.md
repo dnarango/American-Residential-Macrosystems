@@ -26,7 +26,7 @@ weight = 3
   #label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-Studying how people's management decisions interact with biodiversity and ecosystem processes across the United States
+Studying how residential yard management decisions interact with biodiversity and ecosystem processes across the United States
 
 <div style="margin-top: 5.8rem;">   
 </div>
