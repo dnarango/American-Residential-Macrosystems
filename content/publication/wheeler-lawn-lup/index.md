@@ -1,6 +1,6 @@
 +++
 title = "Continental-scale homogenization of residential lawn plant communities"
-date = 2017-09-01T00:00:00
+date = 2019-02-27T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
