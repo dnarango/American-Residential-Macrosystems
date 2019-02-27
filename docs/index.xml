@@ -184,78 +184,6 @@
     </item>
     
     <item>
-      <title>Data</title>
-      <link>/American-Residential-Macrosystems/data/</link>
-      <pubDate>Fri, 16 Nov 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/American-Residential-Macrosystems/data/</guid>
-      <description>
-
-&lt;p&gt;&lt;em&gt;List of data associated with the project&lt;/em&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;homogenization&#34;&gt;&lt;strong&gt;Homogenization&lt;/strong&gt;&lt;/h1&gt;
-
-&lt;h2 id=&#34;biophysical-data&#34;&gt;&lt;strong&gt;Biophysical Data&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110&#34; target=&#34;_blank&#34;&gt;Soil chemistry&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://sustainability.asu.edu/caplter/data/view/msb-cap.625.1/&#34; target=&#34;_blank&#34;&gt;Microclimate&lt;/a&gt;&lt;br /&gt;
-Soil Microclimate&lt;br /&gt;
-&lt;a href=&#34;https://portal.edirepository.org/nis/mapbrowse?scope=edi&amp;amp;identifier=259&amp;amp;revision=1&#34; target=&#34;_blank&#34;&gt;Plant and soil carbon and nitrogen&lt;/a&gt;&lt;br /&gt;
-hydrography&lt;br /&gt;
-Pond sediment&lt;/p&gt;
-
-&lt;h2 id=&#34;biodiversity&#34;&gt;&lt;strong&gt;Biodiversity&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110&#34; target=&#34;_blank&#34;&gt;Lawn plants - abundance&lt;/a&gt;&lt;br /&gt;
-Leaf Morphology&lt;br /&gt;
-Plant species - presence/absence&lt;br /&gt;
-Plant taxonomy list&lt;br /&gt;
-Plant transects (reference sites only)&lt;/p&gt;
-
-&lt;h2 id=&#34;social-data&#34;&gt;&lt;strong&gt;Social Data&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4000.180&#34; target=&#34;_blank&#34;&gt;Phone Surveys&lt;/a&gt;&lt;br /&gt;
-Interviews - Quantitative&lt;br /&gt;
-Interview - Qualitative&lt;/p&gt;
-
-&lt;h2 id=&#34;general-information&#34;&gt;&lt;strong&gt;General Information&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110&#34; target=&#34;_blank&#34;&gt;Parcel Sizes&lt;/a&gt;&lt;br /&gt;
-Land cover data summaries&lt;br /&gt;
-Land Cover spatial layers&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;yard-futures&#34;&gt;&lt;strong&gt;Yard Futures&lt;/strong&gt;&lt;/h1&gt;
-
-&lt;h2 id=&#34;biophysical-data-1&#34;&gt;&lt;strong&gt;Biophysical Data&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;PRS probes&lt;br /&gt;
-Temperature&lt;br /&gt;
-Precipitation&lt;br /&gt;
-Plant and soil carbon and nitrogen&lt;br /&gt;
-Soil chemistry&lt;/p&gt;
-
-&lt;h2 id=&#34;biodiversity-1&#34;&gt;&lt;strong&gt;Biodiversity&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Bird surveys&lt;br /&gt;
-Bee sampling&lt;br /&gt;
-Ground arthropod sampling
-Plant species (presence/absence)
-Lawn plant abundance
-Tree data&lt;/p&gt;
-
-&lt;h2 id=&#34;social-data-1&#34;&gt;&lt;strong&gt;Social Data&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Phone survey data&lt;/p&gt;
-
-&lt;h2 id=&#34;general-information-1&#34;&gt;&lt;strong&gt;General Information&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Site information and parcel size&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>New Website</title>
       <link>/American-Residential-Macrosystems/post/new-website/2018-11-08-new-website/</link>
       <pubDate>Thu, 08 Nov 2018 21:13:14 -0500</pubDate>
@@ -300,6 +228,79 @@ Tree data&lt;/p&gt;
       
       <guid>/American-Residential-Macrosystems/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/American-Residential-Macrosystems/data/</link>
+      <pubDate>Sun, 25 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/American-Residential-Macrosystems/data/</guid>
+      <description>
+
+&lt;h1 id=&#34;data&#34;&gt;&lt;strong&gt;Data&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;List of datasets and associated metadata produced from this project&lt;/em&gt;&lt;br /&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ecological-homogenization-of-urban-america-2011-2016&#34;&gt;&lt;strong&gt;Ecological Homogenization of Urban America (2011-2016)&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;biophysical-data&#34;&gt;&lt;strong&gt;Biophysical Data&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110&#34; target=&#34;_blank&#34;&gt;Soil chemistry&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://sustainability.asu.edu/caplter/data/view/msb-cap.625.1/&#34; target=&#34;_blank&#34;&gt;Microclimate&lt;/a&gt;&lt;br /&gt;
+Soil Microclimate - TBA&lt;br /&gt;
+&lt;a href=&#34;https://portal.edirepository.org/nis/mapbrowse?scope=edi&amp;amp;identifier=259&amp;amp;revision=1&#34; target=&#34;_blank&#34;&gt;Plant carbon and nitrogen&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://portal.edirepository.org/nis/mapbrowse?scope=edi&amp;amp;identifier=258&amp;amp;revision=1&#34; target=&#34;_blank&#34;&gt;Soil carbon and nitrogen&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;biodiversity&#34;&gt;&lt;strong&gt;Biodiversity&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110&#34; target=&#34;_blank&#34;&gt;Lawn plants - abundance&lt;/a&gt;&lt;br /&gt;
+Leaf Morphology  - TBA&lt;br /&gt;
+&lt;a href=&#34;https://portal.edirepository.org/nis/mapbrowse?scope=edi&amp;amp;identifier=307&amp;amp;revision=1&#34; target=&#34;_blank&#34;&gt;Plant species - presence/absence&lt;/a&gt;&lt;br /&gt;
+Plant taxonomy list - TBA&lt;br /&gt;
+Plant transects (reference sites only) - TBA&lt;/p&gt;
+
+&lt;h3 id=&#34;social-data&#34;&gt;&lt;strong&gt;Social Data&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4000.180&#34; target=&#34;_blank&#34;&gt;Phone Surveys&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://portal.edirepository.org/nis/mapbrowse?scope=edi&amp;amp;identifier=305&amp;amp;revision=1&#34; target=&#34;_blank&#34;&gt;Interviews - Quantitative&lt;/a&gt;&lt;br /&gt;
+Interview - Qualitative - Contact for requests&lt;/p&gt;
+
+&lt;h3 id=&#34;general-information&#34;&gt;&lt;strong&gt;General Information&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110&#34; target=&#34;_blank&#34;&gt;Parcel Sizes&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://portal.edirepository.org/nis/mapbrowse?scope=edi&amp;amp;identifier=308&amp;amp;revision=1&#34; target=&#34;_blank&#34;&gt;Land Cover spatial layers and summaries&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;alternative-ecological-futures-for-the-american-residential-macrosystem-br-2017-2020&#34;&gt;&lt;strong&gt;Alternative ecological futures for the American Residential Macrosystem&lt;br&gt;(2017-2020)&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;biophysical-data-1&#34;&gt;&lt;strong&gt;Biophysical Data&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;PRS probes&lt;br /&gt;
+Temperature&lt;br /&gt;
+Precipitation&lt;br /&gt;
+Plant and soil carbon and nitrogen&lt;br /&gt;
+Soil chemistry&lt;/p&gt;
+
+&lt;h3 id=&#34;biodiversity-1&#34;&gt;&lt;strong&gt;Biodiversity&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Bird surveys&lt;br /&gt;
+Bee sampling&lt;br /&gt;
+Ground arthropod sampling&lt;br /&gt;
+Plant species (presence/absence)
+Lawn plant abundance&lt;br /&gt;
+Tree data&lt;/p&gt;
+
+&lt;h3 id=&#34;social-data-1&#34;&gt;&lt;strong&gt;Social Data&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Phone survey data&lt;/p&gt;
+
+&lt;h3 id=&#34;general-information-1&#34;&gt;&lt;strong&gt;General Information&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Site information and parcel size&lt;/p&gt;
 </description>
     </item>
     

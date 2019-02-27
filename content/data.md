@@ -1,63 +1,64 @@
 ---
-title: "Data"
+title: ""
 author: "D. Narango"
-date: 2018-11-16T21:13:14-05:00
+date: 2018-02-25T21:13:14-05:00
 output: html_document
 ---
 
-*List of data associated with the project*
+# **Data**
+*List of datasets and associated metadata produced from this project*  
+<br>  
 
-# **Homogenization**
-## **Biophysical Data**  
+## **Ecological Homogenization of Urban America (2011-2016)**
+### **Biophysical Data**  
 [Soil chemistry](https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110)   
 [Microclimate](https://sustainability.asu.edu/caplter/data/view/msb-cap.625.1/)  
-Soil Microclimate    
-[Plant and soil carbon and nitrogen] (https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=259&revision=1)  
-hydrography  
-Pond sediment
+Soil Microclimate - TBA  
+[Plant carbon and nitrogen](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=259&revision=1)  
+[Soil carbon and nitrogen](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=258&revision=1)
 
 
-## **Biodiversity**
+### **Biodiversity**
 [Lawn plants - abundance](https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110)    
-Leaf Morphology  
-Plant species - presence/absence  
-Plant taxonomy list  
-Plant transects (reference sites only)
+Leaf Morphology  - TBA  
+[Plant species - presence/absence](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=307&revision=1)  
+Plant taxonomy list - TBA  
+Plant transects (reference sites only) - TBA  
 
 
-## **Social Data**
+### **Social Data**
 [Phone Surveys](https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4000.180)  
-Interviews - Quantitative  
-Interview - Qualitative
+[Interviews - Quantitative](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=305&revision=1)  
+Interview - Qualitative - Contact for requests
 
 
-## **General Information**
+### **General Information**
 [Parcel Sizes](https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110)  
-Land cover data summaries  
-Land Cover spatial layers
+[Land Cover spatial layers and summaries](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=308&revision=1)  
 
 ---
 
-# **Yard Futures**
+## **Alternative ecological futures for the American Residential Macrosystem<br>(2017-2020)**  
 
-## **Biophysical Data**
+
+### **Biophysical Data**
 PRS probes  
 Temperature  
 Precipitation  
 Plant and soil carbon and nitrogen  
 Soil chemistry
 
-## **Biodiversity**
+### **Biodiversity**
 Bird surveys  
 Bee sampling  
-Ground arthropod sampling
+Ground arthropod sampling  
 Plant species (presence/absence)
-Lawn plant abundance
+Lawn plant abundance  
 Tree data
 
-## **Social Data**
+### **Social Data**
 Phone survey data
 
-## **General Information**
+### **General Information**
 Site information and parcel size
 
