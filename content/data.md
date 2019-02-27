@@ -35,7 +35,7 @@ Interview - Qualitative - Contact [K. Nelson](/American-Residential-Macrosystems
 
 ### **General Information**
 [Parcel Sizes](https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110)  
-[Land Cover spatial layers and summaries](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=308&revision=1)  
+[Land Cover spatial layers and summaries](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=308&revision=1)   
 
 ---
 
