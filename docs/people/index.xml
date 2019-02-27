@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peoples on American Residential Macrosystems</title>
+    <link>/American-Residential-Macrosystems/people/</link>
+    <description>Recent content in Peoples on American Residential Macrosystems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 25 Feb 2019 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/American-Residential-Macrosystems/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/American-Residential-Macrosystems/people/people_list/</link>
+      <pubDate>Mon, 25 Feb 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/American-Residential-Macrosystems/people/people_list/</guid>
+      <description>People Contact information for collaborators involved in the American Residential Macrosystems Project ** test are changes working? Check if changes are working
+
+Arizona State University Sharon Hall, Co-PI, email
+Kelli Larson, Co-PI, email
+Laura Steger, Phoenix Data Manager, email
+Megan Wheeler, PhD Student, email
+City University of New York Peter M. Groffman; PI, email
+Desiree L. Narango; Postdoctoral Researcher, email
+Laura Templeton, Baltimore Data Manager, email
+Clark University Rinku Roy Chowdhury, Co-PI, email</description>
+    </item>
+    
+  </channel>
+</rss>
