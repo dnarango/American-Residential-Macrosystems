@@ -29,7 +29,7 @@ Plant transects (reference sites only) - TBA
 ### **Social Data**
 [Phone Surveys](https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4000.180)  
 [Interviews - Quantitative](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=305&revision=1)  
-Interview - Qualitative - Contact for requests
+Interview - Qualitative - Contact [K. Nelson](/American-Residential-Macrosystems/people/people_list/) for requests
 
 
 ### **General Information**
