@@ -13,7 +13,7 @@ output: html_document
 ### **Biophysical Data**  
 [Soil chemistry](https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110)   
 [Microclimate](https://sustainability.asu.edu/caplter/data/view/msb-cap.625.1/)  
-Soil Microclimate - TBA 
+Soil Microclimate - TBA  
 [Plant carbon and nitrogen](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=259&revision=1)  
 [Soil carbon and nitrogen](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=258&revision=1)
 
@@ -22,7 +22,7 @@ Soil Microclimate - TBA
 [Lawn plants - abundance](https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110)    
 Leaf Morphology  - TBA  
 [Plant species - presence/absence](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=307&revision=1)  
-Plant taxonomy list - TBA 
+Plant taxonomy list - TBA  
 Plant transects (reference sites only) - TBA  
 iTree Data - TBA  
 
