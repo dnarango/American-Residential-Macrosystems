@@ -1,0 +1,84 @@
++++
+title = "Convergent Surface Water Distributions in U.S. Cities"
+date = 2019-02-27T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["M.K. Steele, J. B. Heffernan, N. Bettez, J. Cavender-Bares, P. M. Groffman, J. M. Grove, S. Hall, S. E. Hobbie, K. Larson, J. L. Morse, C. Neill, K. C. Nelson, J. O’Neil-Dunne, L. Ogden, D. E. Pataki, C. Polsky, R. Roy Chowdhury"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["2"]
+
+# Publication name and optional abbreviated version.
+publication = "In *Ecosystems*"
+publication_short = "In *Ecosystems*"
+
+# Abstract and optional shortened version.
+abstract = "Earth’s surface is rapidly urbanizing, resulting in dramatic changes in the abundance, distribution and character of surface water features in urban landscapes. However, the scope and consequences of surface water redistribution at broad spatial scales are not well understood. We hypothesized that urbanization would lead to convergent surface water abundance and distribution: in other words, cities will gain or lose water such that they become more similar to each other than are their surrounding natural landscapes. Using a database of more than 1 million water bodies and 1 million km of streams, we compared the surface water of 100 US cities with their surrounding undeveloped land. We evaluated differences in areal (A WB) and numeric densities (N WB) of water bodies (lakes, wetlands, and so on), the morphological characteristics of water bodies (size), and the density (D C) of surface flow channels (that is, streams and rivers). The variance of urban A WB, N WB, and D C across the 100 MSAs decreased, by 89, 25, and 71%, respectively, compared to undeveloped land. These data show that many cities are surface water poor relative to undeveloped land; however, in drier landscapes urbanization increases the occurrence of surface water. This convergence pattern strengthened with development intensity, such that high intensity urban development had an areal water body density 98% less than undeveloped lands. Urbanization appears to drive the convergence of hydrological features across the US, such that surface water distributions of cities are more similar to each other than to their surrounding landscapes."
+
+abstract_short = ""
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects = ["homogenization"]
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references 
+#   `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides = ""
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["surface water","urbanization","cities","convergence","urban streams","urban water bodies","hydrography",  "homogenization"]
+
+# Links (optional).
+url_pdf = "C:/Users/user/Documents/ARM-website/content/publication/steele-water-ecosystems/Steele2014_Article_ConvergentSurfaceWaterDistribu.pdf"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = "https://link.springer.com/article/10.1007/s10021-014-9751-y"
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+
+# Digital Object Identifier (DOI)
+doi = "10.1007/s10021-014-9751-y"
+
+# Does this page contain LaTeX math? (true/false)
+math = false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = "Image credit: [**Pexels**](https://www.pexels.com/)"
+
+  # Focal point (optional) 
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
++++
+
+

@@ -4,14 +4,6 @@
     
     <url>
     
-      <loc>/American-Residential-Macrosystems/publication/wheeler-lawn-lup/</loc>
-      <lastmod>2019-02-27T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/American-Residential-Macrosystems/people/people_list/</loc>
       <lastmod>2019-02-25T21:13:14-05:00</lastmod>
     </url>
@@ -92,6 +84,14 @@
     
     <url>
     
+      <loc>/American-Residential-Macrosystems/publication/wheeler-lawn-lup/</loc>
+      <lastmod>2017-09-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/American-Residential-Macrosystems/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -124,6 +124,38 @@
     
     <url>
     
+      <loc>/American-Residential-Macrosystems/publication/trammell-nitrogen-oecologia/</loc>
+      <lastmod>2016-02-04T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/publication/polsky-lawncare-pnas/</loc>
+      <lastmod>2014-03-25T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/publication/steele-water-ecosystems/</loc>
+      <lastmod>2014-02-19T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/publication/groffman-homogenization-fee/</loc>
+      <lastmod>2014-02-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/American-Residential-Macrosystems/examples/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00-04:00</lastmod>
     </url>
@@ -149,7 +181,7 @@
     <url>
     
       <loc>/American-Residential-Macrosystems/publication_types/2/</loc>
-      <lastmod>2019-02-27T00:00:00-05:00</lastmod>
+      <lastmod>2017-09-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -183,8 +215,44 @@
     
     <url>
     
+      <loc>/American-Residential-Macrosystems/tags/ecological-convergence/</loc>
+      <lastmod>2016-02-04T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/American-Residential-Macrosystems/examples/</loc>
       <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/lawn/</loc>
+      <lastmod>2017-09-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/natural-abundance-nitrogen-stable-isotopes/</loc>
+      <lastmod>2016-02-04T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/nitrogen-cycling/</loc>
+      <lastmod>2016-02-04T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -237,6 +305,15 @@
     
     <url>
     
+      <loc>/American-Residential-Macrosystems/tags/residential-yards/</loc>
+      <lastmod>2017-09-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/American-Residential-Macrosystems/slides/</loc>
       <priority>0</priority>
     </url>
@@ -252,6 +329,15 @@
     
     <url>
     
+      <loc>/American-Residential-Macrosystems/tags/species-composition/</loc>
+      <lastmod>2017-09-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/American-Residential-Macrosystems/tags/</loc>
       <lastmod>2018-12-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -261,8 +347,62 @@
     
     <url>
     
+      <loc>/American-Residential-Macrosystems/tags/turfgrass/</loc>
+      <lastmod>2017-09-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/urban-ecology/</loc>
+      <lastmod>2016-02-04T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/cities/</loc>
+      <lastmod>2014-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/convergence/</loc>
+      <lastmod>2014-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/American-Residential-Macrosystems/tags/homogenization/</loc>
-      <lastmod>2019-02-27T00:00:00-05:00</lastmod>
+      <lastmod>2017-09-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/hydrography/</loc>
+      <lastmod>2014-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/land-change-science/</loc>
+      <lastmod>2014-03-25T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -271,7 +411,70 @@
     <url>
     
       <loc>/American-Residential-Macrosystems/tags/plants/</loc>
-      <lastmod>2019-02-27T00:00:00-05:00</lastmod>
+      <lastmod>2017-09-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/private-land-management/</loc>
+      <lastmod>2014-03-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/surface-water/</loc>
+      <lastmod>2014-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/sustainability-science/</loc>
+      <lastmod>2014-03-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/urban-ecology/</loc>
+      <lastmod>2014-03-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/urban-streams/</loc>
+      <lastmod>2014-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/urban-water-bodies/</loc>
+      <lastmod>2014-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/urbanization/</loc>
+      <lastmod>2014-02-19T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

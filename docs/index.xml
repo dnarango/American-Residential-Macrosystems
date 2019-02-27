@@ -11,15 +11,6 @@
     <atom:link href="/American-Residential-Macrosystems/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Continental-scale homogenization of residential lawn plant communities</title>
-      <link>/American-Residential-Macrosystems/publication/wheeler-lawn-lup/</link>
-      <pubDate>Wed, 27 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/American-Residential-Macrosystems/publication/wheeler-lawn-lup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/American-Residential-Macrosystems/people/people_list/</link>
       <pubDate>Mon, 25 Feb 2019 21:13:14 -0500</pubDate>
@@ -330,6 +321,15 @@ Tree data&lt;/p&gt;
     </item>
     
     <item>
+      <title>Continental-scale homogenization of residential lawn plant communities</title>
+      <link>/American-Residential-Macrosystems/publication/wheeler-lawn-lup/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/American-Residential-Macrosystems/publication/wheeler-lawn-lup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>/American-Residential-Macrosystems/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
@@ -354,300 +354,39 @@ Tree data&lt;/p&gt;
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/American-Residential-Macrosystems/examples/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      <title>Plant nitrogen concentration and isotopic composition in residential lawns across seven US cities</title>
+      <link>/American-Residential-Macrosystems/publication/trammell-nitrogen-oecologia/</link>
+      <pubDate>Thu, 04 Feb 2016 00:00:00 -0500</pubDate>
       
-      <guid>/American-Residential-Macrosystems/examples/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/American-Residential-Macrosystems/publication/trammell-nitrogen-oecologia/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/American-Residential-Macrosystems/people_list/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Assessing the homogenization of urban land management with an application to US residential lawn care</title>
+      <link>/American-Residential-Macrosystems/publication/polsky-lawncare-pnas/</link>
+      <pubDate>Tue, 25 Mar 2014 00:00:00 -0400</pubDate>
       
-      <guid>/American-Residential-Macrosystems/people_list/</guid>
-      <description>
-
-&lt;h1 id=&#34;people&#34;&gt;&lt;strong&gt;People&lt;/strong&gt;&lt;/h1&gt;
-
-&lt;p&gt;&lt;em&gt;Contact information for collaborators involved in the American Residential Macrosystems Project&lt;/em&gt;
-** test are changes working? Check if changes are working&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;arizona-state-university&#34;&gt;Arizona State University&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sols.asu.edu/sharon-hall&#34; target=&#34;_blank&#34;&gt;Sharon Hall&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:sharonjhall@asu.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://sustainability.asu.edu/person/kelli-larson/&#34; target=&#34;_blank&#34;&gt;Kelli Larson&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:Kelli.Larson@asu.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://halllab.asu.edu/people/&#34; target=&#34;_blank&#34;&gt;Laura Steger&lt;/a&gt;, Phoenix Data Manager, &lt;a href=&#34;mailto:lsteger@asu.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://mmwheeler.github.io/phx_yard_change/&#34; target=&#34;_blank&#34;&gt;Megan Wheeler&lt;/a&gt;, PhD Student, &lt;a href=&#34;mailto:mmwheele@asu.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;city-university-of-new-york&#34;&gt;City University of New York&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.asrc.cuny.edu/about/people-profiles/peter-groffman/&#34; target=&#34;_blank&#34;&gt;Peter M. Groffman&lt;/a&gt;; PI, &lt;a href=&#34;mailto:Peter.Groffman@asrc.cuny.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://desireelnarango.weebly.com/&#34; target=&#34;_blank&#34;&gt;Desiree L. Narango&lt;/a&gt;; Postdoctoral Researcher, &lt;a href=&#34;mailto:dnarango@gmail.com&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://environment.asrc.cuny.edu/people/laura-templeton/&#34; target=&#34;_blank&#34;&gt;Laura Templeton&lt;/a&gt;, Baltimore Data Manager, &lt;a href=&#34;mailto:laura.templeton.k@gmail.com&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;clark-university&#34;&gt;Clark University&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www2.clarku.edu/faculty/facultybio.cfm?id=1028&#34; target=&#34;_blank&#34;&gt;Rinku Roy Chowdhury&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:RRoyChowdhury@clarku.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;dartmouth-college&#34;&gt;Dartmouth College&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://anthropology.dartmouth.edu/people/laura-ogden&#34; target=&#34;_blank&#34;&gt;Laura Ogden&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:Laura.A.Ogden@dartmouth.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;duke-university&#34;&gt;Duke University&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://heffernanlab.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jim Heffernan&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:james.heffernan@duke.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://anikarbratt.wordpress.com/&#34; target=&#34;_blank&#34;&gt;Anika Bratt&lt;/a&gt;, Postdoctoral Researcher, &lt;a href=&#34;mailto:anikabratt@gmail.com&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;johns-hopkins-university&#34;&gt;Johns Hopkins University&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://eps.jhu.edu/directory/meghan-avolio/&#34; target=&#34;_blank&#34;&gt;Meghan Avolio&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:meghan.avolio@jhu.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;portland-state-university&#34;&gt;Portland State University&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.pdx.edu/esm/dr-jennifer-morse&#34; target=&#34;_blank&#34;&gt;Jennifer Morse&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:jlmorse@pdx.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;sesync&#34;&gt;SESYNC&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://dexterlocke.com/&#34; target=&#34;_blank&#34;&gt;Dexter Locke&lt;/a&gt;, Postdoctoral Researcher, &lt;a href=&#34;mailto:dexter.locke@gmail.com&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;the-nature-conservancy&#34;&gt;The Nature Conservancy&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/tom-chase-82217a12/&#34; target=&#34;_blank&#34;&gt;Tom Chase&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:tchase@tnc.org&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;university-of-delaware&#34;&gt;University of Delaware&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://canr.udel.edu/faculty/trammell-tara/&#34; target=&#34;_blank&#34;&gt;Tara Trammell&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:ttram@udel.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://www.researchgate.net/profile/Carl_Rosier&#34; target=&#34;_blank&#34;&gt;Carl Rosier&lt;/a&gt;, Postdoctoral Researcher, &lt;a href=&#34;mailto:crosier@udel.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;university-of-minnesota&#34;&gt;University of Minnesota&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://cbs.umn.edu/contacts/jeannine-cavender-bares&#34; target=&#34;_blank&#34;&gt;Jeannine Cavendar-Bares&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:cavender@umn.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://www.forestry.umn.edu/jesse-engebretson&#34; target=&#34;_blank&#34;&gt;Jesse Engebretson&lt;/a&gt;,Postdoctoral Researcher, &lt;a href=&#34;mailto:enge0322@umn.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://cbs.umn.edu/hobbie-lab/home&#34; target=&#34;_blank&#34;&gt;Sarah Hobbie&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:shobbie@umn.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://www.forestry.umn.edu/people/kristen-c-nelson&#34; target=&#34;_blank&#34;&gt;Kristen Nelson&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:nelso468@umn.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://scholar.google.co.nz/citations?user=V-ZcDqAAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Josep Padulles Cubino&lt;/a&gt;, Postdoctoral Researcher, &lt;a href=&#34;mailto:padulles@umn.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;university-of-utah&#34;&gt;University of Utah&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://faculty.utah.edu/u0188542-DIANE_E_PATAKI/hm/index.hml&#34; target=&#34;_blank&#34;&gt;Diane Pataki&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:diane.pataki@utah.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://www.researchgate.net/profile/Noortje_Grijseels3&#34; target=&#34;_blank&#34;&gt;Noortje Grijseels&lt;/a&gt;, LA Data Manager, &lt;a href=&#34;mailto:noortje.grijseels@utah.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;university-of-vermont&#34;&gt;University of Vermont&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.uvm.edu/~joneildu/&#34; target=&#34;_blank&#34;&gt;Jarlath O&amp;rsquo;Neil-Dunne&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:Jarlath.ONeil-Dunne@uvm.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;usda-forest-service&#34;&gt;USDA Forest Service&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.nrs.fs.fed.us/people/sblerman&#34; target=&#34;_blank&#34;&gt;Susannah B. Lerman&lt;/a&gt;; Co-PI, &lt;a href=&#34;mailto:slerman@umass.edu&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://www.nrs.fs.fed.us/people/mgrove&#34; target=&#34;_blank&#34;&gt;J. Morgan Grove&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:mgrove@fs.fed.us&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;br /&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;woods-hole-research-center&#34;&gt;Woods Hole Research Center&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://whrc.org/staff/christopher-neill/&#34; target=&#34;_blank&#34;&gt;Christopher Neill&lt;/a&gt;, Co-PI, &lt;a href=&#34;mailto:cneill@whrc.org&#34; target=&#34;_blank&#34;&gt;email&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/American-Residential-Macrosystems/publication/polsky-lawncare-pnas/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>/American-Residential-Macrosystems/slides/example-slides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Convergent Surface Water Distributions in U.S. Cities</title>
+      <link>/American-Residential-Macrosystems/publication/steele-water-ecosystems/</link>
+      <pubDate>Wed, 19 Feb 2014 00:00:00 -0500</pubDate>
       
-      <guid>/American-Residential-Macrosystems/slides/example-slides/</guid>
-      <description>
-
-&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Code block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-
-&lt;p&gt;Block math:&lt;/p&gt;
-
-&lt;p&gt;$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-  One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  Three
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
+      <guid>/American-Residential-Macrosystems/publication/steele-water-ecosystems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological homogenization of urban USA</title>
+      <link>/American-Residential-Macrosystems/publication/groffman-homogenization-fee/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 -0500</pubDate>
       
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/American-Residential-Macrosystems/publication/groffman-homogenization-fee/</guid>
+      <description></description>
     </item>
     
   </channel>

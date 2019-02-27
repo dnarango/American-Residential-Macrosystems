@@ -1,10 +1,10 @@
 +++
 title = "Continental-scale homogenization of residential lawn plant communities"
-date = 2019-02-27T00:00:00
+date = 2017-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Megan Wheeler, et al."]
+authors = ["Megan M. Wheeler, Christopher Neill, Peter M. Groffman, Meghan Avolio, Neil Bettez, Jeannine Cavender-Bares, Rinku Roy Chowdhury, Lindsay Darling, J. Morgan Grove, Sharon J. Hall, James B. Heffernan, Sarah E. Hobbie, Kelli L. Larson, Jennifer L. Morse, Kristen C. Nelson, Laura A.Ogden, Jarlath O’Neil-Dunne, Diane E. Pataki, Tara L.E. Trammell"]
 
 # Publication type.
 # Legend:
@@ -46,7 +46,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["plants", "homogenization"]
+tags = ["plants", "homogenization", "Lawn", "Residential yards", "Species composition", "Turfgrass"]
 
 # Links (optional).
 url_pdf = "C:/Users/user/Documents/ARM-website/content/publication/wheeler-lawn-lup/scalehomogenizationofresidentiallawnplantcommunities.pdf"
