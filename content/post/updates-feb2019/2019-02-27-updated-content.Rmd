@@ -1,0 +1,15 @@
+---
+title: "Updated Content"
+author: "Desiree Narango"
+date: 2018-11-08T21:13:14-05:00
+categories: ["R"]
+tags: ["website"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Updated Content
+
+I added contact information for all current collaborators on the project, updated our publication list, and updated our data packages. 
