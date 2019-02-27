@@ -322,7 +322,7 @@ enableGitInfo = false
   
 [[menu.main]]
   name = "People"
-  url = "/people_list/"  
+  url = "/people/people_list/"  
   weight = 2
 
 # Link to a PDF of your resume/CV from the menu.
