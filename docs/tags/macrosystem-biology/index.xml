@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on American Residential Macrosystems</title>
-    <link>/American-Residential-Macrosystems/project/</link>
-    <description>Recent content in Projects on American Residential Macrosystems</description>
+    <title>Macrosystem Biology on American Residential Macrosystems</title>
+    <link>/American-Residential-Macrosystems/tags/macrosystem-biology/</link>
+    <description>Recent content in Macrosystem Biology on American Residential Macrosystems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Feb 2019 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/American-Residential-Macrosystems/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/American-Residential-Macrosystems/tags/macrosystem-biology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/American-Residential-Macrosystems/project/internal-project/</guid>
       <description>NSF Link An apparent, but untested result of changes to the urban landscape is the homogenization of cities, such that neighborhoods in very different parts of the country increasingly exhibit similar patterns in their road systems, residential lots, commercial sites, and aquatic areas; cities have now become more similar to each other than to the native ecosystems that they replaced. This research builds on the team&amp;rsquo;s prior NSF funded research on the ecological homogenization of the &amp;lsquo;American Residential Macrosystem (ARM)&amp;rsquo; and specifically investigates factors that contribute to stability and/or changes in the ARM.</description>
-    </item>
-    
-    <item>
-      <title>Ecological Homogenization of Urban America</title>
-      <link>/American-Residential-Macrosystems/project/external-project/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/American-Residential-Macrosystems/project/external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
