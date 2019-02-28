@@ -25,7 +25,7 @@ Groffman, P.M., Cadenasso, M.L., Cavender-Bares, J., Childers, D.L., Grimm, N.B.
 
 Wheeler, M.M., Neill, C., Groffman, P.M., Avolio, M., Bettez, N., Cavender-Bares, J., Chowdhury, R.R., Darling, L., Grove, J.M., Hall, S.J. and Heffernan, J.B., 2017. Continental-scale homogenization of residential lawn plant communities. Landscape and Urban Planning, 165, pp.54-63  [link](/American-Residential-Macrosystems/publication/wheeler-lawn-lup/)  
 
-
+ 
 ## **2016**
 Groffman, P.M., Grove, J.M., Polsky, C., Bettez, N.D., Morse, J.L., Cavender-Bares, J., Hall, S.J., Heffernan, J.B., Hobbie, S.E., Larson, K.L. and Neill, C., 2016. Satisfaction, water and fertilizer use in the American residential macrosystem. Environmental Research Letters, 11(3), p.034004.[link](https://iopscience.iop.org/article/10.1088/1748-9326/11/3/034004/meta)  
 

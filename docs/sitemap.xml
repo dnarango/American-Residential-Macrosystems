@@ -124,8 +124,24 @@
     
     <url>
     
+      <loc>/American-Residential-Macrosystems/publication/larson-services-urbanecosystems/</loc>
+      <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/American-Residential-Macrosystems/publication/trammell-nitrogen-oecologia/</loc>
       <lastmod>2016-02-04T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/publication/hall-microclimate-landscape/</loc>
+      <lastmod>2016-01-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -233,8 +249,44 @@
     
     <url>
     
+      <loc>/American-Residential-Macrosystems/tags/ecosystem-services/</loc>
+      <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/American-Residential-Macrosystems/examples/</loc>
       <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/human-values/</loc>
+      <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/humidity/</loc>
+      <lastmod>2016-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/land-management/</loc>
+      <lastmod>2016-03-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -251,8 +303,26 @@
     
     <url>
     
+      <loc>/American-Residential-Macrosystems/tags/lawns/</loc>
+      <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/American-Residential-Macrosystems/tags/macrosystem-biology/</loc>
       <lastmod>2019-02-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/microclimate/</loc>
+      <lastmod>2016-01-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -323,6 +393,24 @@
     
     <url>
     
+      <loc>/American-Residential-Macrosystems/tags/residential-landscapes/</loc>
+      <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/residential-lawn/</loc>
+      <lastmod>2016-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/American-Residential-Macrosystems/tags/residential-yards/</loc>
       <lastmod>2017-09-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -374,8 +462,44 @@
     
     <url>
     
+      <loc>/American-Residential-Macrosystems/tags/urban/</loc>
+      <lastmod>2016-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/American-Residential-Macrosystems/tags/urban-ecology/</loc>
       <lastmod>2016-02-04T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/urban-heat-island-uhi/</loc>
+      <lastmod>2016-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/urban-protected-area/</loc>
+      <lastmod>2016-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/urban-sustainability/</loc>
+      <lastmod>2016-03-01T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
