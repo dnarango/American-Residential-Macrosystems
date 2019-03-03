@@ -12,6 +12,14 @@
     
     <url>
     
+      <loc>/American-Residential-Macrosystems/project/homogenization-project/</loc>
+      <lastmod>2019-02-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/American-Residential-Macrosystems/people/people_list/</loc>
       <lastmod>2019-02-25T21:13:14-05:00</lastmod>
     </url>
@@ -22,14 +30,6 @@
     
       <loc>/American-Residential-Macrosystems/publication_list/</loc>
       <lastmod>2019-02-25T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/American-Residential-Macrosystems/project/external-project/</loc>
-      <lastmod>2018-12-01T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -222,15 +222,6 @@
     
     <url>
     
-      <loc>/American-Residential-Macrosystems/tags/demo/</loc>
-      <lastmod>2018-12-01T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/American-Residential-Macrosystems/tags/ecological-forecasting/</loc>
       <lastmod>2019-02-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -260,6 +251,15 @@
     
       <loc>/American-Residential-Macrosystems/examples/</loc>
       <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/American-Residential-Macrosystems/tags/homogenization/</loc>
+      <lastmod>2019-02-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -445,7 +445,7 @@
     <url>
     
       <loc>/American-Residential-Macrosystems/tags/</loc>
-      <lastmod>2018-12-01T00:00:00-05:00</lastmod>
+      <lastmod>2019-02-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
