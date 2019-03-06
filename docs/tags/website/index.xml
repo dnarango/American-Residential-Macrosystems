@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>website on American Residential Macrosystems</title>
-    <link>/American-Residential-Macrosystems/tags/website/</link>
+    <link>/tags/website/</link>
     <description>Recent content in website on American Residential Macrosystems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 08 Nov 2018 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/American-Residential-Macrosystems/tags/website/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/website/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Website</title>
-      <link>/American-Residential-Macrosystems/post/new-website/2018-11-08-new-website/</link>
+      <link>/post/new-website/2018-11-08-new-website/</link>
       <pubDate>Thu, 08 Nov 2018 21:13:14 -0500</pubDate>
       
-      <guid>/American-Residential-Macrosystems/post/new-website/2018-11-08-new-website/</guid>
+      <guid>/post/new-website/2018-11-08-new-website/</guid>
       <description>WelcomeThis is the beginning of a beautiful website
 print(&amp;quot;hello world&amp;quot;)## [1] &amp;quot;hello world&amp;quot;</description>
     </item>
     
     <item>
       <title>Updated Content</title>
-      <link>/American-Residential-Macrosystems/post/updates-feb2019/2019-02-27-updated-content/</link>
+      <link>/post/updates-feb2019/2019-02-27-updated-content/</link>
       <pubDate>Thu, 08 Nov 2018 21:13:14 -0500</pubDate>
       
-      <guid>/American-Residential-Macrosystems/post/updates-feb2019/2019-02-27-updated-content/</guid>
+      <guid>/post/updates-feb2019/2019-02-27-updated-content/</guid>
       <description>Updated ContentI added contact information for all current collaborators on the project, updated our publication list, and updated our data packages.
 </description>
     </item>
