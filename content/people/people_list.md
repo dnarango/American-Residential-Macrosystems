@@ -9,7 +9,7 @@ output: html_document
 *Contact information for collaborators involved in the American Residential Macrosystems Project*
 <br> 
 ## Arizona State University  
-[Sharon Hall](https://sols.asu.edu/sharon-hall), Co-PI, [email](mailto:sharonjhall@asu.edu)  
+[Sharon J. Hall](http://halllab.asu.edu), Co-PI, [email](mailto:sharonjhall@asu.edu)  
 [Kelli Larson](https://sustainability.asu.edu/person/kelli-larson/), Co-PI, [email](mailto:Kelli.Larson@asu.edu)  
 [Laura Steger](http://halllab.asu.edu/people/), Phoenix Data Manager, [email](mailto:lsteger@asu.edu)  
 [Megan Wheeler](https://mmwheeler.github.io/phx_yard_change/), PhD Student, [email](mailto:mmwheele@asu.edu)  
