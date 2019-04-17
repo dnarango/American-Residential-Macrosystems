@@ -11,7 +11,7 @@ output: html_document
 
 ## **Ecological Homogenization of Urban America (2011-2016)**
 ### **Biophysical Data**  
-[Soil chemistry](https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110)   
+[Soil chemistry](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=306&revision=2)   
 [Microclimate](https://sustainability.asu.edu/caplter/data/view/msb-cap.625.1/)  
 Soil Microclimate - TBA  
 [Plant carbon and nitrogen](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=259&revision=1)  
