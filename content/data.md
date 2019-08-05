@@ -1,7 +1,7 @@
 ---
 title: ""
 author: "D. Narango"
-date: 2018-02-25T21:13:14-05:00
+date: 2019-08-05T21:13:14-05:00
 output: html_document
 ---
 
@@ -57,7 +57,7 @@ Lawn plant abundance  - *complete*
 Tree data
 
 ### **Social Data**
-Phone survey data
+Phone/Online survey data (2011/2018) - Contact [K. Nelson or R. Chowdhury](/American-Residential-Macrosystems/people/people_list/) for requests
 
 ### **General Information**
 Site information and parcel size - *complete*
