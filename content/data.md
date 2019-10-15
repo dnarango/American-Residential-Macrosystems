@@ -43,21 +43,22 @@ Interview - Qualitative - Contact [K. Nelson](/American-Residential-Macrosystems
 
 
 ### **Biophysical Data**
-PRS probes  
-Precipitation  
-Plant and soil carbon and nitrogen  
-Soil chemistry
+PRS probes  - *complete*  
+Precipitation  - <i>In progress</i>
+Plant and soil carbon and nitrogen  - <i>In progress</i>
+Soil chemistry- *complete*  
 
 ### **Biodiversity**
 Bird surveys  - *complete*  
-Bee sampling  
-Ground arthropod sampling  
+Bee sampling - <i>In progress</i>
+Ground arthropod sampling  - <i>In progress</i>
 Plant species (presence/absence) - *complete*  
-Lawn plant abundance  - *complete*  
+Lawn plant abundance  - <i>Dropbox</i> 
 Tree data
 
 ### **Social Data**
 Phone/Online survey data (2011/2018) - Contact [K. Nelson or R. Chowdhury](/American-Residential-Macrosystems/people/people_list/) for requests
+Ordinance Data -- <i>Dropbox</i>
 
 ### **General Information**
 Site information and parcel size - *complete*
