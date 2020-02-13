@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/data/</loc>
+      <lastmod>2019-08-05T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/internal-project/</loc>
       <lastmod>2019-02-27T00:00:00-05:00</lastmod>
     </url>
@@ -70,14 +78,6 @@
     
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/data/</loc>
-      <lastmod>2018-02-25T21:13:14-05:00</lastmod>
     </url>
     
   
@@ -181,6 +181,13 @@
     <url>
     
       <loc>/people_list/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/test_map/</loc>
     </url>
     
   
