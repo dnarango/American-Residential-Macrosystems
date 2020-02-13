@@ -52,7 +52,7 @@ Soil chemistry- *complete*
 Bird surveys  - *complete*  
 Bee sampling - <i>In progress</i>
 Ground arthropod sampling  - <i>In progress</i>
-Plant species (presence/absence) - *complete*  
+[Plant species (presence/absence)](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=309&revision=1)
 Lawn plant abundance  - <i>Dropbox</i> 
 Tree data
 
