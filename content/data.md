@@ -19,7 +19,7 @@ Soil Microclimate - TBA
 
 
 ### **Biodiversity**
-[Lawn plants - abundance](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=260&revision=1)    
+[Lawn plants - abundance](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=260&revision=1)   
 Leaf Morphology  - <i>In progress</i> 
 [Plant species - presence/absence](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=307&revision=1)  
 Plant transects (reference sites only) - <i>In progress</i>  
