@@ -20,10 +20,10 @@ Soil Microclimate - TBA
 
 ### **Biodiversity**
 [Lawn plants - abundance](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=260&revision=1)    
-Leaf Morphology  - TBA  
+Leaf Morphology  - in progress  
 [Plant species - presence/absence](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=307&revision=1)  
-Plant transects (reference sites only) - TBA  
-iTree Data - TBA
+Plant transects (reference sites only) - <i>In progress</i>  
+iTree Data - <i>In progress</i> 
 
 
 ### **Social Data**
@@ -35,7 +35,7 @@ Interview - Qualitative - Contact [K. Nelson](/American-Residential-Macrosystems
 ### **General Information**
 [Parcel Sizes](https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4100.110)  
 [7-class Land Cover shapefiles & summaries (parcels)](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=308&revision=1)   
-4-class Land Cover raster files (census block group)  - TBA
+[4-class Land Cover raster files (census block group)](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=308&revision=1)
 
 ---
 
@@ -43,23 +43,23 @@ Interview - Qualitative - Contact [K. Nelson](/American-Residential-Macrosystems
 
 
 ### **Biophysical Data**
-PRS probes  - *complete*  
-Precipitation  - <i>In progress</i>  
-Plant and soil carbon and nitrogen  - <i>In progress</i>  
-Soil chemistry- *complete*  
+PRS probes  - TBA  
+Precipitation  - TBA  
+Plant and soil carbon and nitrogen  - TBA  
+Soil chemistry- <i>In progress</i>   
 
 ### **Biodiversity**
-Bird surveys  - *complete*  
-Bee sampling - <i>In progress</i>  
-Ground arthropod sampling  - <i>In progress</i>  
+Bird surveys  - <i>In progress</i> 
+Bee sampling - TBA  
+Ground arthropod sampling  - TBA 
 [Plant species (presence/absence)](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=309&revision=1)  
-Lawn plant abundance  - <i>Dropbox</i> 
-Tree data
+Lawn plant abundance  - <i>In progress</i> 
+Tree data - TBA
 
 ### **Social Data**
 Phone/Online survey data (2011/2018) - Contact [K. Nelson or R. Chowdhury](/American-Residential-Macrosystems/people/people_list/) for requests  
-Ordinance Data -- <i>Dropbox</i>
+Ordinance Data -- TBA
 
 ### **General Information**
-Site information and parcel size - *complete*
+Site information and parcel size - TBA
 
