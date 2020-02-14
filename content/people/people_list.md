@@ -34,9 +34,7 @@ output: html_document
 <br>
 ## Portland State University  
 [Jennifer Morse](https://www.pdx.edu/esm/dr-jennifer-morse), Co-PI, [email](mailto:jlmorse@pdx.edu)  
-<br>
-## SESYNC   
-[Dexter Locke](http://dexterlocke.com/), Postdoctoral Researcher, [email](mailto:dexter.locke@gmail.com)  
+
 <br>
 ## The Nature Conservancy  
 [Tom Chase](https://www.linkedin.com/in/tom-chase-82217a12/), Co-PI, [email](mailto:tchase@tnc.org)  
@@ -62,6 +60,7 @@ output: html_document
 ## USDA Forest Service 
 [Susannah B. Lerman](https://www.nrs.fs.fed.us/people/sblerman); Co-PI, [email](mailto:slerman@umass.edu)  
 [J. Morgan Grove](https://www.nrs.fs.fed.us/people/mgrove), Co-PI, [email](mailto:mgrove@fs.fed.us)  
+[Dexter Locke](http://dexterlocke.com/), Researcher, [email](mailto:dexter.locke@gmail.com)  
 <br>
 ## Woods Hole Research Center  
 [Christopher Neill](http://whrc.org/staff/christopher-neill/), Co-PI, [email](mailto:cneill@whrc.org)  
