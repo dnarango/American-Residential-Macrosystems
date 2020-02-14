@@ -1,16 +1,26 @@
 ---
 title: ""
 author: "D. Narango"
-date: 2019-02-25T21:13:14-05:00
+date: 2020-02-14T21:13:14-05:00
 output: html_document
 ---
 
 # **Publication List** 
 
+## **2020**  
+Padullés Cubino, J.P., Avolio, M.L., Wheeler, M.M., Larson, K.L., Hobbie, S.E., Cavender-Bares, J., Hall, S.J., Nelson, K.C., Trammell, T.L., Neill, C. and Pataki, D.E., 2020. Linking yard plant diversity to homeowners’ landscaping priorities across the US. Landscape and Urban Planning, 196, p.103730. [link](https://www.sciencedirect.com/science/article/pii/S0169204619308023)  
+
+
 ## **2019**  
+Cavender‐Bares, J., Padullés Cubino, J., Pearse, W.D., Hobbie, S.E., Lange, A.J., Knapp, S. and Nelson, K.C., 2019. Horticultural availability and homeowner preferences drive plant diversity and composition in urban yards. Ecological Applications. [link](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/eap.2082)  
+
+Locke, D.H., Polsky, C., Grove, J.M., Groffman, P.M., Nelson, K.C., Larson, K.L., Cavender-Bares, J., Heffernan, J.B., Chowdhury, R.R., Hobbie, S.E. and Bettez, N.D., 2019. Residential household yard care practices along urban-exurban gradients in six climatically-diverse US metropolitan areas. PloS one, 14(11).[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6853287/)  
+
 Padullés Cubino, J., Cavender-Bares, J., Hobbie, S. E., Hall, S. J., Trammell, T. L. E., Neill,C., Avolio, M. L. , Darling, L. E., and Groffman, P. M. 2019. Contribution of non-native plants to the phylogenetic homogenization of U.S.yardfloras. Ecosphere 10(3):e02638. 10.1002/ecs2.2638 [link](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.2638)  
 
 Padullés Cubino, J.P., Cavender-Bares, J., Hobbie, S.E., Pataki, D.E., Avolio, M.L., Darling, L.E., Larson, K.L., Hall, S.J., Groffman, P.M., Trammell, T.L. and Steele, M.K., 2018. Drivers of plant species richness and phylogenetic composition in urban yards at the continental scale. Landscape Ecology, pp.1-15. [link](https://link.springer.com/article/10.1007/s10980-018-0744-7)  
+
+Trammell, T.L., Pataki, D.E., Still, C.J., Ehleringer, J.R., Avolio, M.L., Bettez, N., Cavender‐Bares, J., Groffman, P.M., Grove, M., Hall, S.J. and Heffernan, J., 2019. Climate and lawn management interact to control C4 plant distribution in residential lawns across seven US cities. Ecological Applications, 29(4), p.e01884.[link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.1884)  
 
 
 ## **2018**  
@@ -37,7 +47,6 @@ Larson, K.L., Nelson, K.C., Samples, S.R., Hall, S.J., Bettez, N., Cavender-Bare
 
 Trammell, T.L.E., Pataki, D.E., Cavender-Bares, J., Groffman, P.M., Hall, S.J., Heffernan, J.B., Hobbie, S.E., Morse, J.L., Neill, C. and Nelson, K.C., 2016. Plant nitrogen concentration and isotopic composition in residential lawns across seven US cities. Oecologia, 181(1), pp.271-285. [link](https://link.springer.com/article/10.1007/s00442-016-3566-9)  
 
-## **2015**  
 
 ## **2014**
 Groffman, P.M., Cavender-Bares, J., Bettez, N.D., Grove, J.M., Hall, S.J., Heffernan, J.B., Hobbie, S.E., Larson, K.L., Morse, J.L., Neill, C. and Nelson, K., 2014. Ecological homogenization of urban USA. Frontiers in Ecology and the Environment, 12(1), pp.74-81.[link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/120374)  

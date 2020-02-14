@@ -28,8 +28,8 @@ output: html_document
 [Laura Ogden](https://anthropology.dartmouth.edu/people/laura-ogden), Co-PI, [email](mailto:Laura.A.Ogden@dartmouth.edu)  
 <br> 
 ## Duke University  
-[Jim Heffernan](https://heffernanlab.weebly.com/), Co-PI, [email](mailto:james.heffernan@duke.edu)  
 [Anika Bratt](https://anikarbratt.wordpress.com/), Postdoctoral Researcher, [email](mailto:anikabratt@gmail.com)  
+[Jim Heffernan](https://heffernanlab.weebly.com/), Co-PI, [email](mailto:james.heffernan@duke.edu)  
 <br>
 ## Johns Hopkins University  
 [Meghan Avolio](https://eps.jhu.edu/directory/meghan-avolio/), Co-PI, [email](mailto:meghan.avolio@jhu.edu)  
@@ -37,33 +37,31 @@ output: html_document
 ## Portland State University  
 [Jennifer Morse](https://www.pdx.edu/esm/dr-jennifer-morse), Co-PI, [email](mailto:jlmorse@pdx.edu)  
 <br>
-## SESYNC   
-[Dexter Locke](http://dexterlocke.com/), Postdoctoral Researcher, [email](mailto:dexter.locke@gmail.com)  
-<br>
 ## The Nature Conservancy  
 [Tom Chase](https://www.linkedin.com/in/tom-chase-82217a12/), Co-PI, [email](mailto:tchase@tnc.org)  
 <br>
 ## University of Delaware  
-[Tara Trammell](https://canr.udel.edu/faculty/trammell-tara/), Co-PI, [email](mailto:ttram@udel.edu)  
 [Carl Rosier](https://www.researchgate.net/profile/Carl_Rosier), Postdoctoral Researcher, [email](mailto:crosier@udel.edu)  
+[Tara Trammell](https://canr.udel.edu/faculty/trammell-tara/), Co-PI, [email](mailto:ttram@udel.edu)  
 <br>
 ## University of Minnesota  
 [Jeannine Cavendar-Bares](https://cbs.umn.edu/contacts/jeannine-cavender-bares), Co-PI, [email](mailto:cavender@umn.edu)  
+[Josep Padulles Cubino](https://scholar.google.co.nz/citations?user=V-ZcDqAAAAAJ&hl=en), Postdoctoral Researcher, [email](mailto:padulles@umn.edu)  
 [Jesse Engebretson](https://www.forestry.umn.edu/jesse-engebretson),Postdoctoral Researcher, [email](mailto:enge0322@umn.edu)  
 [Sarah Hobbie](https://cbs.umn.edu/hobbie-lab/home), Co-PI, [email](mailto:shobbie@umn.edu)  
 [Kristen Nelson](https://www.forestry.umn.edu/people/kristen-c-nelson), Co-PI, [email](mailto:nelso468@umn.edu)  
-[Josep Padulles Cubino](https://scholar.google.co.nz/citations?user=V-ZcDqAAAAAJ&hl=en), Postdoctoral Researcher, [email](mailto:padulles@umn.edu)  
 <br>
 ## University of Utah
-[Diane Pataki](https://faculty.utah.edu/u0188542-DIANE_E_PATAKI/hm/index.hml), Co-PI, [email](mailto:diane.pataki@utah.edu)  
 [Noortje Grijseels](https://www.researchgate.net/profile/Noortje_Grijseels3), LA Data Manager, [email](mailto:noortje.grijseels@utah.edu)  
+[Diane Pataki](https://faculty.utah.edu/u0188542-DIANE_E_PATAKI/hm/index.hml), Co-PI, [email](mailto:diane.pataki@utah.edu)  
 <br>
 ## University of Vermont  
 [Jarlath O'Neil-Dunne](http://www.uvm.edu/~joneildu/), Co-PI, [email](mailto:Jarlath.ONeil-Dunne@uvm.edu)  
 <br>
 ## USDA Forest Service 
-[Susannah B. Lerman](https://www.nrs.fs.fed.us/people/sblerman); Co-PI, [email](mailto:slerman@umass.edu)  
 [J. Morgan Grove](https://www.nrs.fs.fed.us/people/mgrove), Co-PI, [email](mailto:mgrove@fs.fed.us)  
+[Susannah B. Lerman](https://www.nrs.fs.fed.us/people/sblerman); Co-PI, [email](mailto:slerman@umass.edu) 
+[Dexter Locke](http://dexterlocke.com/), Postdoctoral Researcher, [email](mailto:dexter.locke@gmail.com)  
 <br>
 ## Woods Hole Research Center  
 [Christopher Neill](http://whrc.org/staff/christopher-neill/), Co-PI, [email](mailto:cneill@whrc.org)  

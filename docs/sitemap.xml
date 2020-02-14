@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication_list/</loc>
+      <lastmod>2020-02-14T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/data/</loc>
       <lastmod>2019-08-05T21:13:14-05:00</lastmod>
     </url>
@@ -29,14 +37,6 @@
     <url>
     
       <loc>/people/people_list/</loc>
-      <lastmod>2019-02-25T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_list/</loc>
       <lastmod>2019-02-25T21:13:14-05:00</lastmod>
     </url>
     
