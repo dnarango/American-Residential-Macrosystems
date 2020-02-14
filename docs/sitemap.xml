@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>/publication_list/</loc>
+      <loc>/data/</loc>
       <lastmod>2020-02-14T21:13:14-05:00</lastmod>
     </url>
     
@@ -12,8 +12,16 @@
     
     <url>
     
-      <loc>/data/</loc>
-      <lastmod>2019-08-05T21:13:14-05:00</lastmod>
+      <loc>/people_list/</loc>
+      <lastmod>2020-02-14T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_list/</loc>
+      <lastmod>2020-02-14T21:13:14-05:00</lastmod>
     </url>
     
   
@@ -174,13 +182,6 @@
     
       <loc>/examples/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/people_list/</loc>
     </url>
     
   
