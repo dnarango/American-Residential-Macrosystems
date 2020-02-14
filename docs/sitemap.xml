@@ -12,6 +12,14 @@
     
     <url>
     
+      <loc>/people/people_list/</loc>
+      <lastmod>2020-02-14T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/people_list/</loc>
       <lastmod>2020-02-14T21:13:14-05:00</lastmod>
     </url>
@@ -38,14 +46,6 @@
     
       <loc>/project/homogenization-project/</loc>
       <lastmod>2019-02-27T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/people/people_list/</loc>
-      <lastmod>2019-02-25T21:13:14-05:00</lastmod>
     </url>
     
   
@@ -357,7 +357,7 @@
     <url>
     
       <loc>/people/</loc>
-      <lastmod>2019-02-25T21:13:14-05:00</lastmod>
+      <lastmod>2020-02-14T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
