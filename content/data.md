@@ -20,7 +20,7 @@ Soil Microclimate - TBA
 
 ### **Biodiversity**
 [Lawn plants - abundance](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=260&revision=1)   
-Leaf Morphology  - <i>In progress</i> 
+Leaf Morphology  - <i>In progress</i>   
 [Plant species - presence/absence](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=307&revision=1)  
 Plant transects (reference sites only) - <i>In progress</i>  
 iTree Data - <i>In progress</i> 
@@ -46,15 +46,15 @@ Interview - Qualitative - Contact [K. Nelson](/American-Residential-Macrosystems
 PRS probes  - TBA  
 Precipitation  - TBA  
 Plant and soil carbon and nitrogen  - TBA  
-Soil chemistry- <i>In progress</i>   
+[Soil chemistry](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=374&revision=2)  
 
 ### **Biodiversity**
-Bird surveys  - <i>In progress</i> 
+Bird surveys  - <i>In progress</i>   
 Bee sampling - TBA  
-Ground arthropod sampling  - TBA 
+Ground arthropod sampling  - TBA   
 [Plant species (presence/absence)](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=309&revision=1)  
-Lawn plant abundance  - <i>In progress</i> 
-Tree data - TBA
+Lawn plant abundance  - <i>In progress</i>   
+Tree data - <i>In progress</i>
 
 ### **Social Data**
 Phone/Online survey data (2011/2018) - Contact [K. Nelson or R. Chowdhury](/American-Residential-Macrosystems/people/people_list/) for requests  
