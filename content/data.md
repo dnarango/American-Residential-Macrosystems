@@ -13,17 +13,17 @@ output: html_document
 ### **Biophysical Data**  
 [Soil chemistry](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=306&revision=2)   
 [Microclimate](https://sustainability.asu.edu/caplter/data/view/msb-cap.625.1/)  
-Soil Microclimate - TBA  
+Soil Microclimate - <i>In progress</i>   
 [Plant carbon and nitrogen](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=259&revision=1)  
 [Soil carbon and nitrogen](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=258&revision=1)
 
 
 ### **Biodiversity**
 [Lawn plants - abundance](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=260&revision=1)   
-Leaf Morphology  - <i>In progress</i>     
+Leaf Morphology  - TBA   
 [Plant species - presence/absence](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=307&revision=1)  
-Plant transects (reference sites only) - <i>In progress</i>  
-iTree Data - <i>In progress</i> 
+Plant transects (reference sites only) - TBA  
+iTree Data - TBA
 
 
 ### **Social Data**
@@ -43,24 +43,24 @@ Interview - Qualitative - Contact [K. Nelson](/American-Residential-Macrosystems
 
 
 ### **Biophysical Data**
-PRS probes  - TBA  
-Precipitation  - TBA  
-Plant and soil carbon and nitrogen  - TBA  
+PRS probes  - <i>In progress</i>   
+Precipitation  - <i>In progress</i>  
+Plant and soil carbon and nitrogen  - <i>In progress</i>   
 [Soil chemistry](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=374&revision=2)  
 
 ### **Biodiversity**
-Bird surveys  - <i>In progress</i>   
-Bee sampling - TBA  
-Ground arthropod sampling  - TBA    
+Bird surveys  - TBA   
+Bee sampling - <i>In progress</i>   
+Ground arthropod sampling  - <i>In progress</i>     
 [Plant species (presence/absence)](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=309&revision=1)  
-Lawn plant abundance  - <i>In progress</i>    
-Tree data - <i>In progress</i><br>  
-Plant genetic data - TBA
+Lawn plant abundance  - TBA    
+Tree data - TBA  
+Plant genetic data - <i>In progress</i> 
 
 ### **Social Data**
 Phone/Online survey data (2011/2018) - Contact [K. Nelson or R. Chowdhury](/American-Residential-Macrosystems/people/people_list/) for requests  
-Ordinance Data -- TBA
+Ordinance Data -- <i>In progress</i> 
 
 ### **General Information**
-Site information and parcel size - TBA
+Site information and parcel size - <i>In progress</i> 
 
