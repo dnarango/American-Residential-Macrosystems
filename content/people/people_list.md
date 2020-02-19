@@ -10,7 +10,7 @@ output: html_document
 <br> 
 ## Arizona State University  
 [Sharon J. Hall](http://halllab.asu.edu), Co-PI, [email](mailto:sharonjhall@asu.edu)  
-[Kelli Larson](https://sustainability.asu.edu/person/kelli-larson/), Co-PI, [email](mailto:Kelli.Larson@asu.edu)
+[Kelli Larson](https://sustainability.asu.edu/person/kelli-larson/), Co-PI, [email](mailto:Kelli.Larson@asu.edu)  
 [Riley Andrade](https://sgsup.asu.edu/riley-andrade), PhD Student, [email](rileyandrade@asu.edu)  
 [Laura Steger](http://halllab.asu.edu/people/), Phoenix Data Manager, [email](mailto:lsteger@asu.edu)  
 [Megan Wheeler](https://mmwheeler.github.io/phx_yard_change/), PhD Student, [email](mailto:mmwheele@asu.edu)  
@@ -46,10 +46,10 @@ output: html_document
 <br>
 ## University of Minnesota  
 [Jeannine Cavendar-Bares](https://cbs.umn.edu/contacts/jeannine-cavender-bares), Co-PI, [email](mailto:cavender@umn.edu)  
-[Jesse Engebretson](https://www.forestry.umn.edu/jesse-engebretson),Postdoctoral Researcher, [email](mailto:enge0322@umn.edu)  
 [Sarah Hobbie](https://cbs.umn.edu/hobbie-lab/home), Co-PI, [email](mailto:shobbie@umn.edu)  
 [Kristen Nelson](https://www.forestry.umn.edu/people/kristen-c-nelson), Co-PI, [email](mailto:nelso468@umn.edu)  
 [Josep Padulles Cubino](https://scholar.google.co.nz/citations?user=V-ZcDqAAAAAJ&hl=en), Postdoctoral Researcher, [email](mailto:padulles@umn.edu)  
+[Jesse Engebretson](https://www.forestry.umn.edu/jesse-engebretson),Postdoctoral Researcher, [email](mailto:enge0322@umn.edu)  
 <br>
 ## University of Utah
 [Diane Pataki](https://faculty.utah.edu/u0188542-DIANE_E_PATAKI/hm/index.hml), Co-PI, [email](mailto:diane.pataki@utah.edu)  
@@ -59,8 +59,8 @@ output: html_document
 [Jarlath O'Neil-Dunne](http://www.uvm.edu/~joneildu/), Co-PI, [email](mailto:Jarlath.ONeil-Dunne@uvm.edu)  
 <br>
 ## USDA Forest Service 
-[Susannah B. Lerman](https://www.nrs.fs.fed.us/people/sblerman); Co-PI, [email](mailto:slerman@umass.edu)  
 [J. Morgan Grove](https://www.nrs.fs.fed.us/people/mgrove), Co-PI, [email](mailto:mgrove@fs.fed.us)  
+[Susannah B. Lerman](https://www.nrs.fs.fed.us/people/sblerman); Co-PI, [email](mailto:slerman@umass.edu)  
 [Dexter Locke](http://dexterlocke.com/), Researcher, [email](mailto:dexter.locke@gmail.com)  
 <br>
 ## Woods Hole Research Center  
