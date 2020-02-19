@@ -26,7 +26,9 @@ Trammell, T.L., Pataki, D.E., Still, C.J., Ehleringer, J.R., Avolio, M.L., Bette
 ## **2018**  
 Blaszczak, J.R., Steele, M.K., Badgley, B.D., Heffernan, J.B., Hobbie, S.E., Morse, J.L., Rivers, E.N., Hall, S.J., Neill, C., Pataki, D.E. and Groffman, P.M., 2018. Sediment chemistry of urban stormwater ponds and controls on denitrification. Ecosphere, 9(6), p.e02318. [link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2318)  
 
-Locke, D.H., Avolio, M., Trammel, T., Chowdhury, R.R., Grove, J.M., Rogan, J., Martin, D.G., Bettez, N., Cavender-Bares, J., Groffman, P.M. and Hall, S.J., 2018. A multi-city comparison of front and backyard differences in plant species diversity and nitrogen cycling in residential landscapes. Landscape and Urban Planning, 178, pp.102-111. [link](https://www.sciencedirect.com/science/article/pii/S0169204618304353)
+Locke, D.H., Avolio, M., Trammel, T., Chowdhury, R.R., Grove, J.M., Rogan, J., Martin, D.G., Bettez, N., Cavender-Bares, J., Groffman, P.M. and Hall, S.J., 2018. A multi-city comparison of front and backyard differences in plant species diversity and nitrogen cycling in residential landscapes. Landscape and Urban Planning, 178, pp.102-111. [link](https://www.sciencedirect.com/science/article/pii/S0169204618304353)  
+  
+Locke, D.H., Roy Chowdhury, R., Grove, J.M., Martin, D.G., Goldman, E., Rogan, J. and Groffman, P., 2018. Social norms, yard care, and the difference between front and back yard management: Examining the landscape mullets concept on urban residential lands. Society & Natural Resources, 31(10), pp.1169-1188.[link](https://www.tandfonline.com/doi/full/10.1080/08941920.2018.1481549?casa_token=ZzZRsxa2oZEAAAAA%3AuRJaS3A00ev4bstVt0mBrJogiOUVwbokLEGxV8XhTNUBxOwlugL4wZOtKRM_n3Gh-7xjFHgq65nM)  
 
 Pearse, W.D., Cavender-Bares, J., Hobbie, S.E., Avolio, M.L., Bettez, N., Roy Chowdhury, R., Darling, L.E., Groffman, P.M., Grove, J.M., Hall, S.J. and Heffernan, J.B., 2018. Homogenization of plant diversity, composition, and structure in North American urban yards. Ecosphere, 9(2). [link](https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ecs2.2105)  
 
