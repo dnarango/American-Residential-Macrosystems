@@ -10,7 +10,8 @@ output: html_document
 <br> 
 ## Arizona State University  
 [Sharon J. Hall](http://halllab.asu.edu), Co-PI, [email](mailto:sharonjhall@asu.edu)  
-[Kelli Larson](https://sustainability.asu.edu/person/kelli-larson/), Co-PI, [email](mailto:Kelli.Larson@asu.edu)  
+[Kelli Larson](https://sustainability.asu.edu/person/kelli-larson/), Co-PI, [email](mailto:Kelli.Larson@asu.edu)
+[Riley Andrade](https://sgsup.asu.edu/riley-andrade), PhD Student, [email](rileyandrade@asu.edu)  
 [Laura Steger](http://halllab.asu.edu/people/), Phoenix Data Manager, [email](mailto:lsteger@asu.edu)  
 [Megan Wheeler](https://mmwheeler.github.io/phx_yard_change/), PhD Student, [email](mailto:mmwheele@asu.edu)  
 <br>
