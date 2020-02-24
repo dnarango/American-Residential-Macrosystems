@@ -278,11 +278,29 @@ Padullés Cubino, J.P., Avolio, M.L., Wheeler, M.M., Larson, K.L., Hobbie, S.E.,
     </item>
     
     <item>
+      <title>Contribution of non-native plants to the phylogenetic homogenization of U.S.yard floras</title>
+      <link>/publication/padu-nonnative-ecosphere/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/padu-nonnative-ecosphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Residential household yard care practices along urban-exurban gradients in six climatically-diverse U.S. metropolitan areas</title>
       <link>/publication/locke-yardcare-plosone/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
       
       <guid>/publication/locke-yardcare-plosone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sediment chemistry of urban stormwater ponds and controls on denitrification</title>
+      <link>/publication/blaszczak-sediment-ecosphere/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/blaszczak-sediment-ecosphere/</guid>
       <description></description>
     </item>
     
@@ -381,39 +399,6 @@ Urban, suburban and exurban environments are important ecosystems and their exte
       
       <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Continental-scale homogenization of residential lawn plant communities</title>
-      <link>/publication/wheeler-lawn-lup/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/wheeler-lawn-lup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
