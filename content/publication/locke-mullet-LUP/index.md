@@ -50,7 +50,7 @@ slides = ""
 tags = ["urban ecology"] 
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/1-s2.0-S0169204618304353-main.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -58,7 +58,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.sciencedirect.com/science/article/pii/S0169204618304353"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

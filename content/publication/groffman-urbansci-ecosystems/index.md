@@ -50,7 +50,7 @@ slides = ""
 tags = ["urban ecology"] 
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/Groffman2017_Article_MovingTowardsANewUrbanSystemsS.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -58,7 +58,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://link.springer.com/article/10.1007/s10021-016-0053-4"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

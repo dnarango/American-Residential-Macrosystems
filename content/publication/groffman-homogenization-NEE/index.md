@@ -1,6 +1,6 @@
 +++
 title = "Ecological homogenization of residential macrosystems"
-date = 2019-11-13T00:00:00
+date = 2017-06-22T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -50,7 +50,7 @@ slides = ""
 tags = ["urban ecology"] 
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/Groffmanetal._2017_Ecologicalhomogenizationofresidentialmacrosystems.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -58,7 +58,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.nature.com/articles/s41559-017-0191"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

@@ -50,7 +50,7 @@ slides = ""
 tags = ["urban ecology"] 
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/Trammell_et_al-2019-Ecological_Applications"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -58,7 +58,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/eap.1884"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -74,7 +74,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Pexels**](https://www.pexels.com/)"
+  caption = "Image credit: [**Wikimedia Commons**](https://commons.wikimedia.org//)"
 
   # Focal point (optional) 
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

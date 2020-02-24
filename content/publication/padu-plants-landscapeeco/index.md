@@ -50,7 +50,7 @@ slides = ""
 tags = ["urban ecology"] 
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/PadullésCubino2019_Article_DriversOfPlantSpeciesRichnessA.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -58,7 +58,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://link.springer.com/article/10.1007/s10980-018-0744-7"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -74,7 +74,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Pexels**](https://www.pexels.com/)"
+  caption = "Image credit: [**Wikimedia Commons**](https://commons.wikimedia.org//)"
 
   # Focal point (optional) 
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

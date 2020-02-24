@@ -1,6 +1,6 @@
 +++
 title = "Social norms, yard care, and the difference between front and back yard management: Examining the landscape mullets concept on urban residential lands"
-date = 2019-11-13T00:00:00
+date = 2018-08-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -50,7 +50,7 @@ slides = ""
 tags = ["urban ecology"] 
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/locke2019.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -58,7 +58,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.tandfonline.com/doi/full/10.1080/08941920.2018.1481549"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -74,7 +74,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Pexels**](https://www.pexels.com/)"
+  caption = "Image credit: [**Wikimedia Commons**](https://commons.wikimedia.org/)"
 
   # Focal point (optional) 
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
