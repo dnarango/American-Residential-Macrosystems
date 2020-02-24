@@ -1,6 +1,6 @@
 +++
 title = "A multi-city comparison of front and backyard differences in plant species diversity and nitrogen cycling in residential landscapes"
-date = 2019-11-13T00:00:00
+date = 2018-06-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

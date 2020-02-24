@@ -1,6 +1,6 @@
 +++
 title = "Climate and lawn management interact to control C4 plant distribution in residential lawns across seven US cities"
-date = 2019-11-13T00:00:00
+date = 2019-04-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -50,7 +50,7 @@ slides = ""
 tags = ["urban ecology"] 
 
 # Links (optional).
-url_pdf = "/files/Trammell_et_al-2019-Ecological_Applications"
+url_pdf = "/files/Trammell_et_al-2019-Ecological_Applications.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

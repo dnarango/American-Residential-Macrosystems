@@ -40,51 +40,6 @@
     </item>
     
     <item>
-      <title>A multi-city comparison of front and backyard differences in plant species diversity and nitrogen cycling in residential landscapes</title>
-      <link>/publication/locke-mullet-lup/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/locke-mullet-lup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate and lawn management interact to control C4 plant distribution in residential lawns across seven US cities</title>
-      <link>/publication/trammell-c4plants-ecoapps/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/trammell-c4plants-ecoapps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contribution of non-native plants to the phylogenetic homogenization of U.S.yard floras</title>
-      <link>/publication/padu-nonnative-ecosphere/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/padu-nonnative-ecosphere/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drivers of plant species richness and phylogenetic composition in urban yards at the continental scale</title>
-      <link>/publication/padu-plants-landscapeeco/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/padu-plants-landscapeeco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moving towards a new urban systems science</title>
-      <link>/publication/groffman-urbansci-ecosystems/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/groffman-urbansci-ecosystems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Residential household yard care practices along urban-exurban gradients in six climatically-diverse U.S. metropolitan areas</title>
       <link>/publication/locke-yardcare-plosone/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
@@ -94,11 +49,29 @@
     </item>
     
     <item>
-      <title>Sediment chemistry of urban stormwater ponds and controls on denitrification</title>
-      <link>/publication/blaszczak-sediment-ecosphere/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
+      <title>Climate and lawn management interact to control C4 plant distribution in residential lawns across seven US cities</title>
+      <link>/publication/trammell-c4plants-ecoapps/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/publication/blaszczak-sediment-ecosphere/</guid>
+      <guid>/publication/trammell-c4plants-ecoapps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribution of non-native plants to the phylogenetic homogenization of U.S.yard floras</title>
+      <link>/publication/padu-nonnative-ecosphere/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/padu-nonnative-ecosphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers of plant species richness and phylogenetic composition in urban yards at the continental scale</title>
+      <link>/publication/padu-plants-landscapeeco/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/padu-plants-landscapeeco/</guid>
       <description></description>
     </item>
     
@@ -112,9 +85,27 @@
     </item>
     
     <item>
+      <title>Sediment chemistry of urban stormwater ponds and controls on denitrification</title>
+      <link>/publication/blaszczak-sediment-ecosphere/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/blaszczak-sediment-ecosphere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-city comparison of front and backyard differences in plant species diversity and nitrogen cycling in residential landscapes</title>
+      <link>/publication/locke-mullet-lup/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/locke-mullet-lup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Homogenization of plant diversity, composition, and structure in North American urban yards</title>
       <link>/publication/pearse-plants-ecosphere/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 -0500</pubDate>
       
       <guid>/publication/pearse-plants-ecosphere/</guid>
       <description></description>
@@ -139,16 +130,16 @@
     </item>
     
     <item>
-      <title>Ecosystem services in managing residential landscapes: priorities, value dimensions, and cross-regional patterns</title>
-      <link>/publication/larson-services-urbanecosystems/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      <title>Moving towards a new urban systems science</title>
+      <link>/publication/groffman-urbansci-ecosystems/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 -0400</pubDate>
       
-      <guid>/publication/larson-services-urbanecosystems/</guid>
+      <guid>/publication/groffman-urbansci-ecosystems/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Satisfaction, water and fertilizer use in the American residential macrosystem.</title>
+      <title>Satisfaction, water and fertilizer use in the American residential macrosystem</title>
       <link>/publication/groffman-fertilizer-erl/</link>
       <pubDate>Mon, 29 Feb 2016 00:00:00 -0500</pubDate>
       
@@ -168,9 +159,18 @@
     <item>
       <title>Convergence of microclimate in residential landscapes across diverse cities in the United States</title>
       <link>/publication/hall-microclimate-landscape/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 15 Oct 2015 00:00:00 -0400</pubDate>
       
       <guid>/publication/hall-microclimate-landscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecosystem services in managing residential landscapes: priorities, value dimensions, and cross-regional patterns</title>
+      <link>/publication/larson-services-urbanecosystems/</link>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/larson-services-urbanecosystems/</guid>
       <description></description>
     </item>
     

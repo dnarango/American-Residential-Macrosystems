@@ -1,5 +1,5 @@
 +++
-title = "Satisfaction, water and fertilizer use in the American residential macrosystem."
+title = "Satisfaction, water and fertilizer use in the American residential macrosystem"
 date = 2016-02-29T00:00:00
 draft = false
 

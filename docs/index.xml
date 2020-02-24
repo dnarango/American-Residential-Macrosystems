@@ -279,51 +279,6 @@ Ordinance Data &amp;ndash; &lt;i&gt;In progress&lt;/i&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>A multi-city comparison of front and backyard differences in plant species diversity and nitrogen cycling in residential landscapes</title>
-      <link>/publication/locke-mullet-lup/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/locke-mullet-lup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Climate and lawn management interact to control C4 plant distribution in residential lawns across seven US cities</title>
-      <link>/publication/trammell-c4plants-ecoapps/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/trammell-c4plants-ecoapps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contribution of non-native plants to the phylogenetic homogenization of U.S.yard floras</title>
-      <link>/publication/padu-nonnative-ecosphere/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/padu-nonnative-ecosphere/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drivers of plant species richness and phylogenetic composition in urban yards at the continental scale</title>
-      <link>/publication/padu-plants-landscapeeco/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/padu-plants-landscapeeco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moving towards a new urban systems science</title>
-      <link>/publication/groffman-urbansci-ecosystems/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/groffman-urbansci-ecosystems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Residential household yard care practices along urban-exurban gradients in six climatically-diverse U.S. metropolitan areas</title>
       <link>/publication/locke-yardcare-plosone/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
@@ -333,11 +288,20 @@ Ordinance Data &amp;ndash; &lt;i&gt;In progress&lt;/i&gt;&lt;/p&gt;
     </item>
     
     <item>
-      <title>Sediment chemistry of urban stormwater ponds and controls on denitrification</title>
-      <link>/publication/blaszczak-sediment-ecosphere/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
+      <title>Climate and lawn management interact to control C4 plant distribution in residential lawns across seven US cities</title>
+      <link>/publication/trammell-c4plants-ecoapps/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       
-      <guid>/publication/blaszczak-sediment-ecosphere/</guid>
+      <guid>/publication/trammell-c4plants-ecoapps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribution of non-native plants to the phylogenetic homogenization of U.S.yard floras</title>
+      <link>/publication/padu-nonnative-ecosphere/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/padu-nonnative-ecosphere/</guid>
       <description></description>
     </item>
     
@@ -372,6 +336,69 @@ We are testing the hypothesis that management promoting nutrient- and water-use 
       <description>&lt;p&gt;&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=1065785&#34; target=&#34;_blank&#34;&gt;NSF Link&lt;/a&gt;
 &lt;br&gt;
 Urban, suburban and exurban environments are important ecosystems and their extent is increasing in the U.S. The conversion of wild or managed ecosystems to urban ecosystems is resulting in ecosystem homogenization across cities, where neighborhoods in very different parts of the country have similar patterns of roads, residential lots, commercial areas and aquatic features. We tested the hypothesis that this homogenization alters ecological structure and functions relevant to ecosystem carbon and nitrogen dynamics, with continental scale implications. The research provides a framework for understanding the impacts of urban land use change from local to continental scales. This project encompassed datasets ranging from household surveys to regional-scale remote sensing across six metropolitan statistical areas (MSA) that cover the major climatic regions of the US (Phoenix, AZ, Miami, FL, Baltimore, MD, Boston, MA, St. Paul, MN and Los Angeles, CA) to determine how household characteristics correlate with landscaping decisions, land management practices and ecological structure and functions at local, regional and continental scales. The results of this work transforms scientific understanding of an important and increasingly common ecosystem type (&lt;em&gt;&amp;lsquo;suburbia&amp;rsquo;&lt;/em&gt;) and the consequences to carbon storage and nitrogen pollution at multiple scales. In addition, it advances our understanding of how humans perceive, value and manage their surroundings. The project leveraged an extensive, multi-scale program of education and outreach associated with ongoing LTER and/or ULTRA-EX projects. Activities included K-12 education and outreach to community groups, city/regional planners, natural history museums, state and local agencies and non-governmental organizations. Graduate students also participated in a Distributed Graduate Seminar in Sustainability Science (DGSS) initiated by NCEAS and the University of Minnesota Institute on Environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drivers of plant species richness and phylogenetic composition in urban yards at the continental scale</title>
+      <link>/publication/padu-plants-landscapeeco/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/padu-plants-landscapeeco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Website</title>
+      <link>/post/new-website/2018-11-08-new-website/</link>
+      <pubDate>Thu, 08 Nov 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/new-website/2018-11-08-new-website/</guid>
+      <description>
+
+
+&lt;div id=&#34;welcome&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Welcome&lt;/h1&gt;
+&lt;p&gt;This is the beginning of a beautiful website&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;print(&amp;quot;hello world&amp;quot;)
+## [1] &amp;quot;hello world&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Updated Content</title>
+      <link>/post/updates-feb2019/2019-02-27-updated-content/</link>
+      <pubDate>Thu, 08 Nov 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/updates-feb2019/2019-02-27-updated-content/</guid>
+      <description>
+
+
+&lt;div id=&#34;updated-content&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Updated Content&lt;/h1&gt;
+&lt;p&gt;I added contact information for all current collaborators on the project, updated our publication list, and updated our data packages.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page</title>
+      <link>/tutorial/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tutorial/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

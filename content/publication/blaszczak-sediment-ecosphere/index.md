@@ -1,6 +1,6 @@
 +++
 title = "Sediment chemistry of urban stormwater ponds and controls on denitrification"
-date = 2019-11-13T00:00:00
+date = 2018-06-27T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -50,7 +50,7 @@ slides = ""
 tags = ["urban ecology"] 
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/files/Blaszczak_et_al-2018-Ecosphere.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -58,7 +58,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2318"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

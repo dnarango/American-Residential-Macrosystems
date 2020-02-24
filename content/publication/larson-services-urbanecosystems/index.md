@@ -1,6 +1,6 @@
 +++
 title = "Ecosystem services in managing residential landscapes: priorities, value dimensions, and cross-regional patterns"
-date = 2016-03-01T00:00:00
+date = 2015-07-02T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

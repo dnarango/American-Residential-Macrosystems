@@ -1,6 +1,6 @@
 +++
 title = "Moving towards a new urban systems science"
-date = 2019-11-13T00:00:00
+date = 2016-10-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

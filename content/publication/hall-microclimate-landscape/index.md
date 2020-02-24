@@ -1,6 +1,6 @@
 +++
 title = "Convergence of microclimate in residential landscapes across diverse cities in the United States"
-date = 2016-01-01T00:00:00
+date = 2015-10-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
