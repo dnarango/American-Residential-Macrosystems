@@ -8,9 +8,9 @@ output: html_document
 # **Publication List** 
 
 ## **2020**  
-Padullés Cubino, J.P., Avolio, M.L., Wheeler, M.M., Larson, K.L., Hobbie, S.E., Cavender-Bares, J., Hall, S.J., Nelson, K.C., Trammell, T.L., Neill, C. and Pataki, D.E., 2020. Linking yard plant diversity to homeowners’ landscaping priorities across the US. Landscape and Urban Planning, 196, p.103730. [link](https://www.sciencedirect.com/science/article/pii/S0169204619308023)  
+Padullés Cubino, J.P., Avolio, M.L., Wheeler, M.M., Larson, K.L., Hobbie, S.E., Cavender-Bares, J., Hall, S.J., Nelson, K.C., Trammell, T.L., Neill, C. and Pataki, D.E., 2020. Linking yard plant diversity to homeowners’ landscaping priorities across the US. Landscape and Urban Planning, 196, p.103730. [link](http://www.residentialmacrosystems.com/publication/padu-plants-lup/)  
 
-Trammell, T.L.E., Pataki, D.E., Pouyat, R.V., Groffman, P.M., Rosier, C., Bettez, N., Cavender‐Bares, J., Grove, M., Hall, S., Heffernan, J. and Hobbie, S.E., Urban soil carbon and nitrogen converge at a continental scale. In press, Ecological Monographs.[link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecm.1401)  
+Trammell, T.L.E., Pataki, D.E., Pouyat, R.V., Groffman, P.M., Rosier, C., Bettez, N., Cavender‐Bares, J., Grove, M., Hall, S., Heffernan, J. and Hobbie, S.E., Urban soil carbon and nitrogen converge at a continental scale. In press, Ecological Monographs.[link](http://www.residentialmacrosystems.com/publication/trammell-nitrogen-ecomono/)  
 
 
 ## **2019**  
