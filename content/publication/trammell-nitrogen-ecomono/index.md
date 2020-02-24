@@ -50,7 +50,7 @@ slides = ""
 tags = ["homogenization","Urban ecology","Natural abundance carbon stable isotopes","Natural abundance nitrogen stable isotopes","Ecological convergence","Nitrogen cycling","soil C cycling", "soil N cycling","urban residential yards","residential yard management"] 
 
 # Links (optional).
-url_pdf = "Trammell_et_al-2020-Ecological_Monographs.pdf"
+url_pdf = "files/Trammell_et_al-2020-Ecological_Monographs.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://portal.edirepository.org/nis/mapbrowse?packageid=edi.258.1"
