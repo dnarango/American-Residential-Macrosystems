@@ -9,6 +9,7 @@ output: html_document
 
 ## **2020**  
 Cavender‐Bares, J., Padullés Cubino, J., Pearse, W.D., Hobbie, S.E., Lange, A.J., Knapp, S. and Nelson, K.C., 2019. Horticultural availability and homeowner preferences drive plant diversity and composition in urban yards. Ecological Applications. [link](/publication/cavenderbares-horticulture-ecoapps/)  
+
 Padullés Cubino, J.P., Avolio, M.L., Wheeler, M.M., Larson, K.L., Hobbie, S.E., Cavender-Bares, J., Hall, S.J., Nelson, K.C., Trammell, T.L., Neill, C. and Pataki, D.E., 2020. Linking yard plant diversity to homeowners’ landscaping priorities across the US. Landscape and Urban Planning, 196, p.103730. [link](/publication/padu-plants-lup/)  
 
 Trammell, T.L.E., Pataki, D.E., Pouyat, R.V., Groffman, P.M., Rosier, C., Bettez, N., Cavender‐Bares, J., Grove, M., Hall, S., Heffernan, J. and Hobbie, S.E., Urban soil carbon and nitrogen converge at a continental scale. In press, Ecological Monographs.[link](/publication/trammell-nitrogen-ecomono/)  
