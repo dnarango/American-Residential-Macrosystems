@@ -42,7 +42,7 @@ output: html_document
 <br>
 ## University of Delaware  
 [Tara Trammell](https://canr.udel.edu/faculty/trammell-tara/), Co-PI, [email](mailto:ttram@udel.edu)  
-[Carl Rosier](https://www.researchgate.net/profile/Carl_Rosier), Postdoctoral Researcher, [email](mailto:crosier@udel.edu)  
+
 <br>
 ## University of Minnesota  
 [Jeannine Cavendar-Bares](https://cbs.umn.edu/contacts/jeannine-cavender-bares), Co-PI, [email](mailto:cavender@umn.edu)  

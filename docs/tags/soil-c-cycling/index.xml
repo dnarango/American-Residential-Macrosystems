@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nitrogen cycling on American Residential Macrosystems</title>
-    <link>/tags/nitrogen-cycling/</link>
-    <description>Recent content in Nitrogen cycling on American Residential Macrosystems</description>
+    <title>soil C cycling on American Residential Macrosystems</title>
+    <link>/tags/soil-c-cycling/</link>
+    <description>Recent content in soil C cycling on American Residential Macrosystems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 24 Feb 2020 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/nitrogen-cycling/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/soil-c-cycling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Mon, 24 Feb 2020 00:00:00 -0500</pubDate>
       
       <guid>/publication/trammell-nitrogen-ecomono/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plant nitrogen concentration and isotopic composition in residential lawns across seven US cities</title>
-      <link>/publication/trammell-nitrogen-oecologia/</link>
-      <pubDate>Thu, 04 Feb 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/publication/trammell-nitrogen-oecologia/</guid>
       <description></description>
     </item>
     

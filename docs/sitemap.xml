@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/trammell-nitrogen-ecomono/</loc>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/data/</loc>
       <lastmod>2020-02-14T21:13:14-05:00</lastmod>
     </url>
@@ -197,7 +205,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2017-09-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -232,7 +240,7 @@
     <url>
     
       <loc>/tags/ecological-convergence/</loc>
-      <lastmod>2016-02-04T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -330,8 +338,17 @@
     
     <url>
     
+      <loc>/tags/natural-abundance-carbon-stable-isotopes/</loc>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/natural-abundance-nitrogen-stable-isotopes/</loc>
-      <lastmod>2016-02-04T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -340,7 +357,7 @@
     <url>
     
       <loc>/tags/nitrogen-cycling/</loc>
-      <lastmod>2016-02-04T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -472,7 +489,7 @@
     <url>
     
       <loc>/tags/urban-ecology/</loc>
-      <lastmod>2016-02-04T00:00:00-05:00</lastmod>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -526,7 +543,7 @@
     <url>
     
       <loc>/tags/homogenization/</loc>
-      <lastmod>2017-09-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -570,6 +587,33 @@
     
     <url>
     
+      <loc>/tags/residential-yard-management/</loc>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/soil-c-cycling/</loc>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/soil-n-cycling/</loc>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/surface-water/</loc>
       <lastmod>2014-02-19T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -590,6 +634,15 @@
     
       <loc>/tags/urban-ecology/</loc>
       <lastmod>2014-03-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/urban-residential-yards/</loc>
+      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
