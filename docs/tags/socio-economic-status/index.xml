@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>socio-economic status on American Residential Macrosystems</title>
+    <link>/tags/socio-economic-status/</link>
+    <description>Recent content in socio-economic status on American Residential Macrosystems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 13 Nov 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/socio-economic-status/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Residential household yard care practices along urban-exurban gradients in six climatically-diverse U.S. metropolitan areas</title>
+      <link>/publication/locke-yardcare-plosone/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/locke-yardcare-plosone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

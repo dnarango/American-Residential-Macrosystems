@@ -44,6 +44,22 @@
     
     <url>
     
+      <loc>/publication/cavenderbares-horticulture-ecoapps/</loc>
+      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/locke-yardcare-plosone/</loc>
+      <lastmod>2019-11-13T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/internal-project/</loc>
       <lastmod>2019-02-27T00:00:00-05:00</lastmod>
     </url>
@@ -142,6 +158,14 @@
     
       <loc>/publication/larson-services-urbanecosystems/</loc>
       <lastmod>2016-03-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/groffman-fertilizer-erl/</loc>
+      <lastmod>2016-02-29T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -577,6 +601,15 @@
     
     <url>
     
+      <loc>/tags/attitudes/</loc>
+      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/cities/</loc>
       <lastmod>2014-02-19T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -595,8 +628,35 @@
     
     <url>
     
+      <loc>/tags/environmental-satisfaction/</loc>
+      <lastmod>2016-02-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/fertilizer/</loc>
+      <lastmod>2019-11-13T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/homogenization/</loc>
       <lastmod>2020-02-24T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/horticulture/</loc>
+      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -613,8 +673,53 @@
     
     <url>
     
+      <loc>/tags/introduced-species/</loc>
+      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/irrigation/</loc>
+      <lastmod>2019-11-13T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/land-change-science/</loc>
       <lastmod>2014-03-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/lawns/</loc>
+      <lastmod>2019-11-13T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/nitrogen/</loc>
+      <lastmod>2016-02-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/pesticides/</loc>
+      <lastmod>2019-11-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -631,6 +736,15 @@
     
     <url>
     
+      <loc>/tags/preferences/</loc>
+      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/private-land-management/</loc>
       <lastmod>2014-03-25T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -640,8 +754,26 @@
     
     <url>
     
+      <loc>/tags/residential-land-use/</loc>
+      <lastmod>2016-02-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/residential-yard-management/</loc>
       <lastmod>2020-02-24T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/socio-economic-status/</loc>
+      <lastmod>2019-11-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -685,8 +817,26 @@
     
     <url>
     
+      <loc>/tags/urban-biodiversity/</loc>
+      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/urban-domestic-yards/</loc>
+      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/urban-ecology/</loc>
-      <lastmod>2014-03-25T00:00:00-04:00</lastmod>
+      <lastmod>2019-11-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -730,8 +880,26 @@
     
     <url>
     
+      <loc>/tags/water/</loc>
+      <lastmod>2016-02-29T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/website/</loc>
       <lastmod>2018-11-08T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/yard-care/</loc>
+      <lastmod>2019-11-13T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
