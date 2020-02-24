@@ -50,7 +50,7 @@ slides = ""
 tags = ["surface water","urbanization","cities","convergence","urban streams","urban water bodies","hydrography",  "homogenization"]
 
 # Links (optional).
-url_pdf = "C:/Users/user/Documents/ARM-website/content/publication/steele-water-ecosystems/Steele2014_Article_ConvergentSurfaceWaterDistribu.pdf"
+url_pdf = "files/Steele2014_Article_ConvergentSurfaceWaterDistribu.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

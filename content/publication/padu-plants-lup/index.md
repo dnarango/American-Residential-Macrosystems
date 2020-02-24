@@ -50,7 +50,7 @@ slides = ""
 tags = ["homogenization","Urban ecology","Domestic Gardens","Ecosystem Services","Human Values","Plant Diversity","Socio-ecological systems"]
 
 # Links (optional).
-url_pdf = "C:/Users/user/Documents/ARM-website/content/publication/padu-plants-lup/1-s2.0-S0169204619308023-main.pdf"
+url_pdf = "files/1-s2.0-S0169204619308023-main.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset1 = "https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=305&revision=1"

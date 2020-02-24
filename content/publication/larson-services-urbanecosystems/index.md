@@ -50,7 +50,7 @@ slides = ""
 tags = ["Lawns", "Residential landscapes", "Land management", "Human values", "Ecosystem services", "Urban sustainability" ]
 
 # Links (optional).
-url_pdf = "C:/Users/user/Documents/ARM-website/content/publication/larson-services-urbanecosystems/Larson2016_Article_EcosystemServicesInManagingRes.pdf"
+url_pdf = "files/Larson2016_Article_EcosystemServicesInManagingRes.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=305&revision=1"

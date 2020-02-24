@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ecosystem Services on American Residential Macrosystems</title>
+    <title>Ecosystem services on American Residential Macrosystems</title>
     <link>/tags/ecosystem-services/</link>
-    <description>Recent content in Ecosystem Services on American Residential Macrosystems</description>
+    <description>Recent content in Ecosystem services on American Residential Macrosystems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Mar 2016 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/ecosystem-services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Linking yard plant diversity to homeowners’ landscaping priorities across the U.S</title>
-      <link>/publication/padu-plants-lup/</link>
-      <pubDate>Sun, 23 Feb 2020 00:00:00 -0500</pubDate>
+      <title>Ecosystem services in managing residential landscapes: priorities, value dimensions, and cross-regional patterns</title>
+      <link>/publication/larson-services-urbanecosystems/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
       
-      <guid>/publication/padu-plants-lup/</guid>
+      <guid>/publication/larson-services-urbanecosystems/</guid>
       <description></description>
-    </item>
-    
-  </channel>
-</rss>scription></description>
     </item>
     
   </channel>

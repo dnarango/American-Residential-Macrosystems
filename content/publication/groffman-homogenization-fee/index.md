@@ -18,8 +18,8 @@ authors = ["Peter M Groffman, Jeannine Cavender-Bares, Neil D Bettez, J Morgan G
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Frontiers in Ecological and the Environment*"
-publication_short = "In *Frontiers*"
+publication = "In *Frontiers in Ecology and the Environment*"
+publication_short = "In *Frontiers in Ecology and the Environment*"
 
 # Abstract and optional shortened version.
 abstract = "A visually apparent but scientifically untested outcome of land‐use change is homogenization across urban areas, where neighborhoods in different parts of the country have similar patterns of roads, residential lots, commercial areas, and aquatic features. We hypothesize that this homogenization extends to ecological structure and also to ecosystem functions such as carbon dynamics and microclimate, with continental‐scale implications. Further, we suggest that understanding urban homogenization will provide the basis for understanding the impacts of urban land‐use change from local to continental scales. Here, we show how multi‐scale, multi‐disciplinary datasets from six metropolitan areas that cover the major climatic regions of the US (Phoenix, AZ; Miami, FL; Baltimore, MD; Boston, MA; Minneapolis–St Paul, MN; and Los Angeles, CA) can be used to determine how household and neighborhood characteristics correlate with land‐management practices, land‐cover composition, and landscape structure and ecosystem functions at local, regional, and continental scales."
@@ -50,7 +50,7 @@ slides = ""
 tags = ["homogenization","urban ecology","private land management"]
 
 # Links (optional).
-url_pdf = "C:/Users/user/Documents/ARM-website/content/publication/groffman-homogenization-fee/Groffman_et_al-2014-Frontiers_in_Ecology_and_the_Environment.pdf"
+url_pdf = "files/Groffman_et_al-2014-Frontiers_in_Ecology_and_the_Environment.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

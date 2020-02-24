@@ -50,7 +50,7 @@ slides = ""
 tags = ["homogenization","Urban ecology","Natural abundance nitrogen stable isotopes","Ecological convergence","Nitrogen cycling"]
 
 # Links (optional).
-url_pdf = "C:/Users/user/Documents/ARM-website/content/publication/trammell-nitrogen-oecologia/Trammell2016_Article_PlantNitrogenConcentrationAndI.pdf"
+url_pdf = "files/Trammell2016_Article_PlantNitrogenConcentrationAndI.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=259&revision=1"

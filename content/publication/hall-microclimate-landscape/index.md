@@ -50,7 +50,7 @@ slides = ""
 tags = ["Urban", "homogenization", "Residential lawn","Microclimate","Urban heat island (UHI)","Humidity","Urban protected area"]
 
 # Links (optional).
-url_pdf = "C:/Users/user/Documents/ARM-website/content/publication/hall-microclimate-landscape/Hall2016_Article_ConvergenceOfMicroclimateInRes.pdf"
+url_pdf = "files/Hall2016_Article_ConvergenceOfMicroclimateInRes.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://sustainability.asu.edu/caplter/data/view/msb-cap.625.1/"

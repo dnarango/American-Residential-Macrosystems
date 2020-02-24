@@ -50,7 +50,7 @@ slides = ""
 tags = ["sustainability science","land-change science","urban ecology","private land management"]
 
 # Links (optional).
-url_pdf = "C:/Users/user/Documents/ARM-website/content/publication/polsky-lawncare-pnas/4432.pdf"
+url_pdf = "files/polsky-lawncare-pnas/4432.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
