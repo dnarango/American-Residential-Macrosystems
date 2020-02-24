@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["homogenization","Urban ecology","Natural abundance carbon stable isotopes","Natural abundance nitrogen stable isotopes","Ecological convergence","Nitrogen cycling","soil C cycling", "soil N cycling","urban residential yards","residential yard management"]
+tags = ["homogenization","Urban ecology","Natural abundance carbon stable isotopes","Natural abundance nitrogen stable isotopes","Ecological convergence","Nitrogen cycling","soil C cycling", "soil N cycling","urban residential yards","residential yard management"] 
 
 # Links (optional).
 url_pdf = "Trammell_et_al-2020-Ecological_Monographs.pdf"
