@@ -28,14 +28,14 @@ Trammell, T.L., Pataki, D.E., Still, C.J., Ehleringer, J.R., Avolio, M.L., Bette
 ## **2018**  
 Blaszczak, J.R., Steele, M.K., Badgley, B.D., Heffernan, J.B., Hobbie, S.E., Morse, J.L., Rivers, E.N., Hall, S.J., Neill, C., Pataki, D.E. and Groffman, P.M., 2018. Sediment chemistry of urban stormwater ponds and controls on denitrification. Ecosphere, 9(6), p.e02318. [link](/publication/blaszczak-sediment-ecosphere/)  
 
-Locke, D.H., Avolio, M., Trammel, T., Chowdhury, R.R., Grove, J.M., Rogan, J., Martin, D.G., Bettez, N., Cavender-Bares, J., Groffman, P.M. and Hall, S.J., 2018. A multi-city comparison of front and backyard differences in plant species diversity and nitrogen cycling in residential landscapes. Landscape and Urban Planning, 178, pp.102-111. [link](/publication/locke-mullet-LUP/)  
+Locke, D.H., Avolio, M., Trammel, T., Chowdhury, R.R., Grove, J.M., Rogan, J., Martin, D.G., Bettez, N., Cavender-Bares, J., Groffman, P.M. and Hall, S.J., 2018. A multi-city comparison of front and backyard differences in plant species diversity and nitrogen cycling in residential landscapes. Landscape and Urban Planning, 178, pp.102-111. [link](/publication/locke-mullet-lup/)  
   
-Locke, D.H., Roy Chowdhury, R., Grove, J.M., Martin, D.G., Goldman, E., Rogan, J. and Groffman, P., 2018. Social norms, yard care, and the difference between front and back yard management: Examining the landscape mullets concept on urban residential lands. Society & Natural Resources, 31(10), pp.1169-1188.[link](/publication/locke-mullet-SNR/)  
+Locke, D.H., Roy Chowdhury, R., Grove, J.M., Martin, D.G., Goldman, E., Rogan, J. and Groffman, P., 2018. Social norms, yard care, and the difference between front and back yard management: Examining the landscape mullets concept on urban residential lands. Society & Natural Resources, 31(10), pp.1169-1188.[link](/publication/locke-mullet-snr/)  
 
 Pearse, W.D., Cavender-Bares, J., Hobbie, S.E., Avolio, M.L., Bettez, N., Roy Chowdhury, R., Darling, L.E., Groffman, P.M., Grove, J.M., Hall, S.J. and Heffernan, J.B., 2018. Homogenization of plant diversity, composition, and structure in North American urban yards. Ecosphere, 9(2). [link](/publication/pearse-plants-ecosphere/)  
 
 ## **2017**  
-Groffman, P.M., Avolio, M., Cavender-Bares, J., Bettez, N.D., Grove, J.M., Hall, S.J., Hobbie, S.E., Larson, K.L., Lerman, S.B., Locke, D.H. and Heffernan, J.B., 2017. Ecological homogenization of residential macrosystems. Nature ecology & evolution, 1(7), p.0191.[link](/publication/groffman-homogenization-NEE/)  
+Groffman, P.M., Avolio, M., Cavender-Bares, J., Bettez, N.D., Grove, J.M., Hall, S.J., Hobbie, S.E., Larson, K.L., Lerman, S.B., Locke, D.H. and Heffernan, J.B., 2017. Ecological homogenization of residential macrosystems. Nature ecology & evolution, 1(7), p.0191.[link](/publication/groffman-homogenization-nee/)  
 
 Groffman, P.M., Cadenasso, M.L., Cavender-Bares, J., Childers, D.L., Grimm, N.B., Grove, J.M., Hobbie, S.E., Hutyra, L.R., Jenerette, G.D., McPhearson, T. and Pataki, D.E., 2017. Moving towards a new urban systems science. Ecosystems, 20(1), pp.38-43. [link](/publication/groffman-urbansci-ecosystems/)  
 
@@ -43,7 +43,7 @@ Wheeler, M.M., Neill, C., Groffman, P.M., Avolio, M., Bettez, N., Cavender-Bares
 
  
 ## **2016**
-Groffman, P.M., Grove, J.M., Polsky, C., Bettez, N.D., Morse, J.L., Cavender-Bares, J., Hall, S.J., Heffernan, J.B., Hobbie, S.E., Larson, K.L. and Neill, C., 2016. Satisfaction, water and fertilizer use in the American residential macrosystem. Environmental Research Letters, 11(3), p.034004.[link](/publication/groffman-fertilizer-ERL/)  
+Groffman, P.M., Grove, J.M., Polsky, C., Bettez, N.D., Morse, J.L., Cavender-Bares, J., Hall, S.J., Heffernan, J.B., Hobbie, S.E., Larson, K.L. and Neill, C., 2016. Satisfaction, water and fertilizer use in the American residential macrosystem. Environmental Research Letters, 11(3), p.034004.[link](/publication/groffman-fertilizer-erl/)  
 
 Hall, S.J., Learned, J., Ruddell, B., Larson, K.L., Cavender-Bares, J., Bettez, N., Groffman, P.M., Grove, J.M., Heffernan, J.B., Hobbie, S.E. and Morse, J.L., 2016. Convergence of microclimate in residential landscapes across diverse cities in the United States. Landscape ecology, 31(1), pp.101-117. [link](/publication/hall-microclimate-landscape/)  
 
