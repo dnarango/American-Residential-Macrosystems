@@ -1,6 +1,6 @@
 +++
 title = "Linking yard plant diversity to homeowners’ landscaping priorities across the U.S"
-date = 2020-02-24T00:00:00
+date = 2020-02-23T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
