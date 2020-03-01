@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sustainability science on American Residential Macrosystems</title>
-    <link>/tags/sustainability-science/</link>
-    <description>Recent content in sustainability science on American Residential Macrosystems</description>
+    <title>Landscape Mullet concept on American Residential Macrosystems</title>
+    <link>/tags/landscape-mullet-concept/</link>
+    <description>Recent content in Landscape Mullet concept on American Residential Macrosystems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 13 Aug 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/sustainability-science/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/landscape-mullet-concept/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Mon, 13 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/locke-mullet-snr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessing the homogenization of urban land management with an application to US residential lawn care</title>
-      <link>/publication/polsky-lawncare-pnas/</link>
-      <pubDate>Tue, 25 Mar 2014 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/polsky-lawncare-pnas/</guid>
       <description></description>
     </item>
     

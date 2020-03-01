@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Residential landscapes on American Residential Macrosystems</title>
+    <title>residential landscapes on American Residential Macrosystems</title>
     <link>/tags/residential-landscapes/</link>
-    <description>Recent content in Residential landscapes on American Residential Macrosystems</description>
+    <description>Recent content in residential landscapes on American Residential Macrosystems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/residential-landscapes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A multi-city comparison of front and backyard differences in plant species diversity and nitrogen cycling in residential landscapes</title>
-      <link>/publication/locke-mullet-lup/</link>
-      <pubDate>Thu, 14 Jun 2018 00:00:00 -0400</pubDate>
+      <title>Social norms, yard care, and the difference between front and back yard management: Examining the landscape mullets concept on urban residential lands</title>
+      <link>/publication/locke-mullet-snr/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>/publication/locke-mullet-lup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecosystem services in managing residential landscapes: priorities, value dimensions, and cross-regional patterns</title>
-      <link>/publication/larson-services-urbanecosystems/</link>
-      <pubDate>Thu, 02 Jul 2015 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/larson-services-urbanecosystems/</guid>
+      <guid>/publication/locke-mullet-snr/</guid>
       <description></description>
     </item>
     

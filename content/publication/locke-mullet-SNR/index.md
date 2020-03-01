@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["urban ecology"] 
+tags = ["urban ecology","Landscape Mullet concept","lawncare practices","residential ecosystems","residential landscapes","sustainability science","yard care practices"] 
 
 # Links (optional).
 url_pdf = "/files/locke2019.pdf"
