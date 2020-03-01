@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["urban ecology, alien yard species, anthropogenic factors, domestic gardens, horticulture, plant traits, urban biodiversity, introduced plants"] 
+tags = ["urban ecology", "alien yard species", "anthropogenic factors", "domestic gardens", "horticulture", "plant traits", "urban biodiversity", "introduced plants"] 
 
 # Links (optional).
 url_pdf = "/files/Cubino_et_al-2019-Ecosphere.pdf"

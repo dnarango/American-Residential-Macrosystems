@@ -673,6 +673,24 @@
     
     <url>
     
+      <loc>/tags/alien-yard-species/</loc>
+      <lastmod>2019-03-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/anthropogenic-factors/</loc>
+      <lastmod>2019-03-12T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/attitudes/</loc>
       <lastmod>2020-01-23T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -693,6 +711,15 @@
     
       <loc>/tags/convergence/</loc>
       <lastmod>2014-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/domestic-gardens/</loc>
+      <lastmod>2019-03-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -738,6 +765,15 @@
     
       <loc>/tags/hydrography/</loc>
       <lastmod>2014-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/introduced-plants/</loc>
+      <lastmod>2019-03-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -792,6 +828,15 @@
     
       <loc>/tags/pesticides/</loc>
       <lastmod>2019-11-13T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/plant-traits/</loc>
+      <lastmod>2019-03-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -909,15 +954,6 @@
     
       <loc>/tags/urban-ecology/</loc>
       <lastmod>2019-11-13T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/urban-ecology-alien-yard-species-anthropogenic-factors-domestic-gardens-horticulture-plant-traits-urban-biodiversity-introduced-plants/</loc>
-      <lastmod>2019-03-12T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
