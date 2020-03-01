@@ -4,7 +4,7 @@ date = 2016-10-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["P. M. Groffman, M. L. Cadenasso, J. Cavender-Bares, D. L. Childers, N. B. Grimm, J. M. Grove, S. E. Hobbie, L. R. Hutyra, G. D. Jenerette, T. McPhearson, D. E. Pataki, S. T. A. Pickett, R. V. Pouyat, E. Rosi-Marshall & B. L. Ruddell "]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = "In *Ecosystems*"
 publication_short = "In *Ecosystems*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Research on urban ecosystems rapidly expanded in the 1990s and is now a central topic in ecosystem science. In this paper, we argue that there are two critical challenges for ecosystem science that are rooted in urban ecosystems: (1) predicting or explaining the assembly and function of novel communities and ecosystems under altered environmental conditions and (2) refining understanding of humans as components of ecosystems in the context of integrated social-ecological systems. We assert that these challenges are also linchpins in the further development of sustainability science and argue that there is a strong need for a new initiative in urban systems science to address these challenges and catalyze the next wave of fundamental advances in ecosystem science, and more broadly in interdisciplinary and transdisciplinary science."
 
 abstract_short = ""
 
