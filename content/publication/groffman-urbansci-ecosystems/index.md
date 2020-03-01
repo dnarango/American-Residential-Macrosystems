@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["urban ecology"] 
+tags = ["urban ecology","community assembly","ecosystem function","evolution","social science","sustainability","urban"] 
 
 # Links (optional).
 url_pdf = "files/Groffman2017_Article_MovingTowardsANewUrbanSystemsS.pdf"
