@@ -4,7 +4,7 @@ date = 2018-06-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["D. H.Locke, M. Avolio, T. L.E.Trammell, R. R. Chowdhury, J. M. Grove, J. Rogan, D. G. Martin, N. Bettez, J. Cavender-Bares, P. M. Groffman, S. J.Hall, J. B.Heffernan, S. E.Hobbie, K. L.Larson, J. L. Morse, C. Neill, L. A.Ogden, J. P.M. O'Neil-Dunne, D. Pataki, W. D. Pearse, C. Polsky. M. M.Wheeler"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = "In *Landscape and Urban Planning*"
 publication_short = "In *Landscape and Urban Planning*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "*Highlights*<br>*Research suggests residents seek to ‘fit in’ via establishing particular aesthetics.<br>*This explanation does not meaningfully grapple with back yards, which are more hidden.<br>*Lawns and nitrogen cycling processes were not different between front and back yards.<br>*Yards however had more species of vegetation in back yards than front yards.<br>*Social norms may be reducing biodiversity.<br><br>*Abstract*<br>We hypothesize that lower public visibility of residential backyards reduces households’ desire for social conformity, which alters residential land management and produces differences in ecological composition and function between front and backyards. Using lawn vegetation plots (7 cities) and soil cores (6 cities), we examine plant species richness and evenness and nitrogen cycling of lawns in Boston, Baltimore, Miami, Minneapolis-St. Paul, Phoenix, Los Angeles (LA), and Salt Lake City (SLC). Seven soil nitrogen measures were compared because different irrigation and fertilization practices may vary between front and backyards, which may alter nitrogen cycling in soils. In addition to lawn-only measurements, we collected and analyzed plant species richness for entire yards—cultivated (intentionally planted) and spontaneous (self-regenerating)—for front and backyards in just two cities: LA and SLC. Lawn plant species and soils were not different between front and backyards in our multi-city comparisons. However, entire-yard plant analyses in LA and SLC revealed that frontyards had significantly fewer species than backyards for both cultivated and spontaneous species. These results suggest that there is a need for a more rich and social-ecologically nuanced understanding of potential residential, household behaviors and their ecological consequences."
 
 abstract_short = ""
 
