@@ -4,7 +4,7 @@ date = 2018-02-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["W. D. Pearse,  J. Cavender‐Bares, S. E. Hobbie,  M. L. Avolio  N.l Bettez,  R. Roy Chowdhury,  L. E. Darling,  P, M. Groffman,  J. M. Grove,  S. J. Hall,  J. B. Heffernan,  J. Learned,  C. Neill,  K. C. Nelson,  D. E. Pataki,  B. L. Ruddell,  M. K. Steele,  T. L. E. Trammell"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = "In *Ecosphere*"
 publication_short = "In *Ecosphere*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Urban ecosystems are widely hypothesized to be more ecologically homogeneous than natural ecosystems. We argue that urban plant communities assemble from a complex mix of horticultural and regional species pools, and evaluate the homogenization hypothesis by comparing cultivated and spontaneously occurring urban vegetation to natural area vegetation across seven major U.S. cities. There was limited support for homogenization of urban diversity, as the cultivated and spontaneous yard flora had greater numbers of species than natural areas, and cultivated phylogenetic diversity was also greater. However, urban yards showed evidence of homogenization of composition and structure. Yards were compositionally more similar across regions than were natural areas, and tree density was less variable in yards than in comparable natural areas. This homogenization of biodiversity likely reflects similar horticultural source pools, homeowner preferences, and management practices across U.S. cities."
 
 abstract_short = ""
 
@@ -35,7 +35,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["homogenization"]
+projects = ["homogenization","aridity","ecosystem services","functional traits","phylogenetic diversity","plants"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
