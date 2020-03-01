@@ -4,7 +4,7 @@ date = 2018-08-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["D. H. Locke, R. R. Chowdhury, J. M. Grove, D. G. Martin, E. Goldman, J. Rogan & P. Groffman"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = "In *Society & Natural Resources*"
 publication_short = "In *Society & Natural Resources*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Many factors influence yard care in urban and suburban areas, but the explicit difference between front versus back yards is one factor that has not been fully examined. This paper introduces the Landscape Mullet concept. The two key components of this concept are: (1) social norms are an important driver of yard management; and (2) the influence of those norms varies spatially between front (public) to back (private). Thirty-six semi-structured interviews were conducted in six neighborhoods of Baltimore, MD, USA in the summer of 2016. We found that social pressures for yard care practices were not evenly expressed across front/back yards. Moreover, this front/back unevenness holds true in five out of the six neighborhoods we studied, indicating that the front/back, public/private distinction does not appear to be neighborhood-specific. This research extends prior work on the role of social pressures in yard care. Future research should consider this spatial scale of heterogeneity for social and environmental reasons."
 
 abstract_short = ""
 
