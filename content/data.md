@@ -23,7 +23,6 @@ Soil Microclimate - <i>In progress</i>
 [Leaf Morphology](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=375&revision=2)  
 [Plant species - presence/absence](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=307&revision=1)  
 [iTree Data](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=376&revision=1)  
-Vegetation Transect Data - <i>In progress</i>  
 
 ### **Social Data**
 [Phone Surveys](https://portal.lternet.edu/nis/mapbrowse?packageid=knb-lter-bes.4000.180)  
