@@ -11,6 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Updated Content</title>
+      <link>/post/updates-march2020/2020-03-01-updated-content/</link>
+      <pubDate>Sun, 01 Mar 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/post/updates-march2020/2020-03-01-updated-content/</guid>
+      <description>
+
+&lt;h1 id=&#34;updated-content&#34;&gt;Updated Content&lt;/h1&gt;
+
+&lt;p&gt;All publications are online and linked to pdfs. New data sets were added: (City Ordinances, iTree)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Urban soil carbon and nitrogen converge at a continental scale</title>
       <link>/publication/trammell-nitrogen-ecomono/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 -0500</pubDate>
@@ -379,26 +393,6 @@ Urban, suburban and exurban environments are important ecosystems and their exte
 &lt;h1&gt;Updated Content&lt;/h1&gt;
 &lt;p&gt;I added contact information for all current collaborators on the project, updated our publication list, and updated our data packages.&lt;/p&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Page</title>
-      <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tutorial/example/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
