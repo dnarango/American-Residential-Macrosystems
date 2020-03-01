@@ -35,7 +35,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["homogenization","aridity","ecosystem services","functional traits","phylogenetic diversity","plants"]
+projects = ["homogenization"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["urban ecology"] 
+tags = ["urban ecology","aridity","ecosystem services","functional traits","phylogenetic diversity","plants","homogenization"] 
 
 # Links (optional).
 url_pdf = "/files/Pearse_et_al-2018-Ecosphere.pdf"
