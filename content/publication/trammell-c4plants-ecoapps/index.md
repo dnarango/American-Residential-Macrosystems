@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["urban ecology","C4 plant distribution","lawns", "macroecology","plant δ13C","residential","urban","yard management"] 
+tags = ["urban ecology","C4 plant distribution","lawns", "macroecology","plant 13C","residential","urban","yard management"] 
 
 # Links (optional).
 url_pdf = "/files/Trammell_et_al-2019-Ecological_Applications.pdf"
