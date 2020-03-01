@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["urban ecology"] 
+tags = ["urban ecology","Land management","Residential landscapes","Plant diversity","Urban soils"] 
 
 # Links (optional).
 url_pdf = "/files/1-s2.0-S0169204618304353-main.pdf"
