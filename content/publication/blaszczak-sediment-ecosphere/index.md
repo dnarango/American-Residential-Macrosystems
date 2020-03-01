@@ -47,7 +47,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["urban ecology"] 
+tags = ["urban ecology", "contaminants","denitrification","metals","nitrogen","nitrous oxide","nitrous oxide reductase","stormwater ponds","urban biogeochemistry"] 
 
 # Links (optional).
 url_pdf = "/files/Blaszczak_et_al-2018-Ecosphere.pdf"

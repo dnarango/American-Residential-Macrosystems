@@ -763,8 +763,26 @@
     
     <url>
     
+      <loc>/tags/contaminants/</loc>
+      <lastmod>2018-06-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/convergence/</loc>
       <lastmod>2014-02-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/denitrification/</loc>
+      <lastmod>2018-06-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -880,8 +898,35 @@
     
     <url>
     
+      <loc>/tags/metals/</loc>
+      <lastmod>2018-06-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/nitrogen/</loc>
-      <lastmod>2016-02-29T00:00:00-05:00</lastmod>
+      <lastmod>2018-06-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/nitrous-oxide/</loc>
+      <lastmod>2018-06-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/nitrous-oxide-reductase/</loc>
+      <lastmod>2018-06-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -997,6 +1042,15 @@
     
     <url>
     
+      <loc>/tags/stormwater-ponds/</loc>
+      <lastmod>2018-06-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/surface-water/</loc>
       <lastmod>2014-02-19T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -1026,6 +1080,15 @@
     
       <loc>/tags/urban-biodiversity/</loc>
       <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/urban-biogeochemistry/</loc>
+      <lastmod>2018-06-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
