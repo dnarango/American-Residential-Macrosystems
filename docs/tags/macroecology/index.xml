@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>macroecology on American Residential Macrosystems</title>
+    <link>/tags/macroecology/</link>
+    <description>Recent content in macroecology on American Residential Macrosystems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/macroecology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Climate and lawn management interact to control C4 plant distribution in residential lawns across seven US cities</title>
+      <link>/publication/trammell-c4plants-ecoapps/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/trammell-c4plants-ecoapps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
