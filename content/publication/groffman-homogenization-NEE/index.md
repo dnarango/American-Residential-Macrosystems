@@ -4,7 +4,7 @@ date = 2017-06-22T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["P. M. Groffman, M. Avolio, J. Cavender-Bares, N. D. Bettez, J. M. Grove, S. J. Hall, S. E. Hobbie, K. L. Larson, S. B. Lerman, D. H. Locke, J. B. Heffernan, J. L. Morse, C. Neill, K. C. Nelson, J. O’Neil-Dunne, D. E. Pataki, C. Polsky, R. R. Chowdhury & T. L. E. Trammell "]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = "In *Nature Ecology and Evolution*"
 publication_short = "In *Nature Ecology and Evolution*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Similarities in planning, development and culture within urban areas may lead to the convergence of ecological processes on continental scales. Transdisciplinary, multi-scale research is now needed to understand and predict the impact of human-dominated landscapes on ecosystem structure and function."
 
 abstract_short = ""
 
