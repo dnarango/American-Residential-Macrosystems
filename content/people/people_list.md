@@ -60,7 +60,7 @@ output: html_document
 <br>
 ## USDA Forest Service 
 [J. Morgan Grove](https://www.nrs.fs.fed.us/people/mgrove), Co-PI, [email](mailto:mgrove@fs.fed.us)  
-[Susannah B. Lerman](https://www.nrs.fs.fed.us/people/sblerman); Co-PI, [email](mailto:slerman@umass.edu)  
+[Susannah B. Lerman](https://www.nrs.fs.fed.us/people/sblerman); Co-PI, [email](mailto:susannah.b.lerman@usda.gov)  
 [Dexter Locke](http://dexterlocke.com/), Researcher, [email](mailto:dexter.locke@gmail.com)  
 <br>
 ## Woods Hole Research Center  
