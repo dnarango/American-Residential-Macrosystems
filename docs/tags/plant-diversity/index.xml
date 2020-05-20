@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Plant diversity on American Residential Macrosystems</title>
+    <title>Plant Diversity on American Residential Macrosystems</title>
     <link>/tags/plant-diversity/</link>
-    <description>Recent content in Plant diversity on American Residential Macrosystems</description>
+    <description>Recent content in Plant Diversity on American Residential Macrosystems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/plant-diversity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A multi-city comparison of front and backyard differences in plant species diversity and nitrogen cycling in residential landscapes</title>
-      <link>/publication/locke-mullet-lup/</link>
-      <pubDate>Thu, 14 Jun 2018 00:00:00 -0400</pubDate>
+      <title>Linking yard plant diversity to homeowners’ landscaping priorities across the U.S</title>
+      <link>/publication/padu-plants-lup/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 -0500</pubDate>
       
-      <guid>/publication/locke-mullet-lup/</guid>
+      <guid>/publication/padu-plants-lup/</guid>
       <description></description>
+    </item>
+    
+  </channel>
+</rss>/description>
     </item>
     
   </channel>

@@ -47,7 +47,7 @@ Plant and soil carbon and nitrogen  - <i>In progress</i>
 [Soil chemistry](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=374&revision=2)  
 
 ### **Biodiversity**
-[Bird surveys](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=448&revision=1)  
+Bird surveys - Available, contact [D. Narango](email:dnarango@gmail.com)  
 Bee sampling - <i>In progress</i>   
 Ground arthropod sampling  - Available, contact [D. Narango](email:dnarango@gmail.com)  
 [Plant species (presence/absence)](https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=309&revision=1)  
