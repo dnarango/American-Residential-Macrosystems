@@ -8,7 +8,7 @@ output: html_document
 # **Publication List** 
 
 ## **2020**   
-Engebretson, J.M., Nelson, K.C., Ogden, L.A., Larson, K.L., Grove, J.M., Hall, S.J., Locke, D.H., Pataki, D.E., Chowdhury, R.R., Trammell, T.L. and Groffman, P.M., 2020. How the Nonhuman World Influences Homeowner Yard Management in the American Residential Macrosystem. Human Ecology, pp.1-10. [link](publication/engebretson-nonhuman-humaneco/)
+Engebretson, J.M., Nelson, K.C., Ogden, L.A., Larson, K.L., Grove, J.M., Hall, S.J., Locke, D.H., Pataki, D.E., Chowdhury, R.R., Trammell, T.L. and Groffman, P.M., 2020. How the Nonhuman World Influences Homeowner Yard Management in the American Residential Macrosystem. Human Ecology, pp.1-10. [link](/publication/engebretson-nonhuman-humaneco/)
 
 Cubino, J.P., Cavender-Bares, J., Groffman, P.M., Avolio, M.L., Bratt, A.R., Hall, S.J., Larson, K.L., Lerman, S.B., Narango, D.L., Neill, C. and Trammell, T.L., 2020. Taxonomic, phylogenetic, and functional composition and homogenization of residential yard vegetation with contrasting management. Landscape and Urban Planning, 202, p.103877. [link](/publication/cubino-plants-lup/)
 
