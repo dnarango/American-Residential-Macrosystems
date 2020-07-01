@@ -1,13 +1,17 @@
 ---
 title: ""
 author: "D. Narango"
-date: 2020-02-14T21:13:14-05:00
+date: 2020-07-01T21:13:14-05:00
 output: html_document
 ---
 
 # **Publication List** 
 
 ## **2020**  
+Engebretson, J.M., Nelson, K.C., Ogden, L.A., Larson, K.L., Grove, J.M., Hall, S.J., Locke, D.H., Pataki, D.E., Chowdhury, R.R., Trammell, T.L. and Groffman, P.M., 2020. How the Nonhuman World Influences Homeowner Yard Management in the American Residential Macrosystem. Human Ecology, pp.1-10. [link](publication/engebretson-nonhuman-humaneco)
+
+Cubino, J.P., Cavender-Bares, J., Groffman, P.M., Avolio, M.L., Bratt, A.R., Hall, S.J., Larson, K.L., Lerman, S.B., Narango, D.L., Neill, C. and Trammell, T.L., 2020. Taxonomic, phylogenetic, and functional composition and homogenization of residential yard vegetation with contrasting management. Landscape and Urban Planning, 202, p.103877. [link](/publication/cubino-plants-lup/)
+
 Cavender‐Bares, J., Padullés Cubino, J., Pearse, W.D., Hobbie, S.E., Lange, A.J., Knapp, S. and Nelson, K.C., 2019. Horticultural availability and homeowner preferences drive plant diversity and composition in urban yards. Ecological Applications. [link](/publication/cavenderbares-horticulture-ecoapps/)  
 
 Padullés Cubino, J.P., Avolio, M.L., Wheeler, M.M., Larson, K.L., Hobbie, S.E., Cavender-Bares, J., Hall, S.J., Nelson, K.C., Trammell, T.L., Neill, C. and Pataki, D.E., 2020. Linking yard plant diversity to homeowners’ landscaping priorities across the US. Landscape and Urban Planning, 196, p.103730. [link](/publication/padu-plants-lup/)  

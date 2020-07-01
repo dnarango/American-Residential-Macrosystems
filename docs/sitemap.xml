@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>/publication/cubino-plants-lup/</loc>
+      <lastmod>2020-10-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_list/</loc>
+      <lastmod>2020-07-01T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/engebretson-nonhuman-humaneco/</loc>
+      <lastmod>2020-06-23T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/updates-march2020/2020-03-01-updated-content/</loc>
       <lastmod>2020-03-01T21:13:14-05:00</lastmod>
     </url>
@@ -37,14 +61,6 @@
     <url>
     
       <loc>/people/people_list/</loc>
-      <lastmod>2020-02-14T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication_list/</loc>
       <lastmod>2020-02-14T21:13:14-05:00</lastmod>
     </url>
     
@@ -317,7 +333,16 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
+      <lastmod>2020-10-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/actor-network-theory/</loc>
+      <lastmod>2020-06-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -450,6 +475,15 @@
     
     <url>
     
+      <loc>/tags/interspecies-cosmopolitanism/</loc>
+      <lastmod>2020-06-23T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/land-management/</loc>
       <lastmod>2018-06-14T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -524,6 +558,15 @@
     
       <loc>/tags/nitrogen-cycling/</loc>
       <lastmod>2020-02-24T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/nonhuman-agency/</loc>
+      <lastmod>2020-06-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -622,7 +665,7 @@
     <url>
     
       <loc>/tags/residential-yards/</loc>
-      <lastmod>2017-09-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-06-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -691,7 +734,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-06-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -701,6 +744,15 @@
     
       <loc>/tags/turfgrass/</loc>
       <lastmod>2017-09-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/united-states/</loc>
+      <lastmod>2020-06-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -719,6 +771,15 @@
     
       <loc>/tags/urban-ecology/</loc>
       <lastmod>2020-02-24T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/urban-greening/</loc>
+      <lastmod>2020-06-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -897,6 +958,15 @@
     
     <url>
     
+      <loc>/tags/functional-diversity/</loc>
+      <lastmod>2020-10-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/functional-traits/</loc>
       <lastmod>2018-02-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -907,7 +977,7 @@
     <url>
     
       <loc>/tags/homogenization/</loc>
-      <lastmod>2020-02-24T00:00:00-05:00</lastmod>
+      <lastmod>2020-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1042,7 +1112,7 @@
     <url>
     
       <loc>/tags/phylogenetic-diversity/</loc>
-      <lastmod>2018-02-15T00:00:00-05:00</lastmod>
+      <lastmod>2020-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1221,6 +1291,15 @@
     
     <url>
     
+      <loc>/tags/taxonomic-diversity/</loc>
+      <lastmod>2020-10-01T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/urban/</loc>
       <lastmod>2015-10-15T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -1231,7 +1310,7 @@
     <url>
     
       <loc>/tags/urban-biodiversity/</loc>
-      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+      <lastmod>2020-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1249,7 +1328,7 @@
     <url>
     
       <loc>/tags/urban-domestic-yards/</loc>
-      <lastmod>2020-01-23T00:00:00-05:00</lastmod>
+      <lastmod>2020-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1339,7 +1418,7 @@
     <url>
     
       <loc>/tags/yard-management/</loc>
-      <lastmod>2019-04-01T00:00:00-04:00</lastmod>
+      <lastmod>2020-10-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
